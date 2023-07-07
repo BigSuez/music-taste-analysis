@@ -1,0 +1,1855 @@
+[
+    {
+        "date": "1970-01-03",
+        "stats": {
+            "avg_danceability": 0.5298607594936708,
+            "avg_energy": 0.5266202531645571,
+            "avg_loudness": -10.430240506329115,
+            "avg_mode": 0.7848101265822784,
+            "avg_speechiness": 0.04990253164556962,
+            "avg_acousticness": 0.44431974683544306,
+            "avg_instrumentalness": 0.06414990392405065,
+            "avg_liveness": 0.243573417721519,
+            "avg_valence": 0.6653670886075952,
+            "avg_tempo": 124.72421518987342,
+            "avg_duration": 213194.44303797468,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1970-06-06",
+        "stats": {
+            "avg_danceability": 0.5431710526315792,
+            "avg_energy": 0.5981315789473683,
+            "avg_loudness": -10.148460526315791,
+            "avg_mode": 0.868421052631579,
+            "avg_speechiness": 0.04756315789473683,
+            "avg_acousticness": 0.3336697368421053,
+            "avg_instrumentalness": 0.038730034868421054,
+            "avg_liveness": 0.22516973684210526,
+            "avg_valence": 0.6912631578947369,
+            "avg_tempo": 122.86332894736843,
+            "avg_duration": 207114.1447368421,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1971-01-02",
+        "stats": {
+            "avg_danceability": 0.5544868421052631,
+            "avg_energy": 0.5503815789473684,
+            "avg_loudness": -10.552842105263164,
+            "avg_mode": 0.7894736842105263,
+            "avg_speechiness": 0.051601315789473676,
+            "avg_acousticness": 0.3970874368421052,
+            "avg_instrumentalness": 0.016730047236842106,
+            "avg_liveness": 0.1753355263157895,
+            "avg_valence": 0.6463460526315788,
+            "avg_tempo": 116.85256578947366,
+            "avg_duration": 203226.75,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1971-06-05",
+        "stats": {
+            "avg_danceability": 0.5769736842105264,
+            "avg_energy": 0.5393907894736845,
+            "avg_loudness": -11.093078947368419,
+            "avg_mode": 0.7763157894736842,
+            "avg_speechiness": 0.06135789473684209,
+            "avg_acousticness": 0.4255809210526313,
+            "avg_instrumentalness": 0.037796992499999994,
+            "avg_liveness": 0.21463421052631576,
+            "avg_valence": 0.7152105263157894,
+            "avg_tempo": 117.93044736842106,
+            "avg_duration": 203401.52631578947,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1972-01-08",
+        "stats": {
+            "avg_danceability": 0.5381780821917805,
+            "avg_energy": 0.5459232876712331,
+            "avg_loudness": -11.510150684931505,
+            "avg_mode": 0.7123287671232876,
+            "avg_speechiness": 0.04847945205479453,
+            "avg_acousticness": 0.4220567808219177,
+            "avg_instrumentalness": 0.06056506767123289,
+            "avg_liveness": 0.17101780821917809,
+            "avg_valence": 0.6253917808219178,
+            "avg_tempo": 117.6084383561644,
+            "avg_duration": 215092.0,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1972-06-03",
+        "stats": {
+            "avg_danceability": 0.5429753086419753,
+            "avg_energy": 0.5586962962962964,
+            "avg_loudness": -10.867345679012343,
+            "avg_mode": 0.7777777777777778,
+            "avg_speechiness": 0.05726666666666667,
+            "avg_acousticness": 0.40628395061728395,
+            "avg_instrumentalness": 0.03689696037037037,
+            "avg_liveness": 0.21171728395061729,
+            "avg_valence": 0.6192950617283948,
+            "avg_tempo": 117.09360493827158,
+            "avg_duration": 210710.58024691357,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1973-01-06",
+        "stats": {
+            "avg_danceability": 0.5431298701298702,
+            "avg_energy": 0.5257441558441556,
+            "avg_loudness": -11.16303896103896,
+            "avg_mode": 0.6883116883116883,
+            "avg_speechiness": 0.04366363636363637,
+            "avg_acousticness": 0.4081862337662338,
+            "avg_instrumentalness": 0.028261678181818184,
+            "avg_liveness": 0.18398441558441567,
+            "avg_valence": 0.6318246753246752,
+            "avg_tempo": 121.90054545454548,
+            "avg_duration": 218755.83116883118,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1973-06-02",
+        "stats": {
+            "avg_danceability": 0.5525238095238096,
+            "avg_energy": 0.5831071428571428,
+            "avg_loudness": -10.333785714285709,
+            "avg_mode": 0.7380952380952381,
+            "avg_speechiness": 0.0636452380952381,
+            "avg_acousticness": 0.3844563095238095,
+            "avg_instrumentalness": 0.05948201130952378,
+            "avg_liveness": 0.18528571428571428,
+            "avg_valence": 0.6778130952380954,
+            "avg_tempo": 121.30510714285712,
+            "avg_duration": 228045.85714285713,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1974-01-05",
+        "stats": {
+            "avg_danceability": 0.575313953488372,
+            "avg_energy": 0.558825581395349,
+            "avg_loudness": -11.02779069767442,
+            "avg_mode": 0.813953488372093,
+            "avg_speechiness": 0.052091860465116296,
+            "avg_acousticness": 0.36951048837209294,
+            "avg_instrumentalness": 0.04568314465116281,
+            "avg_liveness": 0.1997639534883721,
+            "avg_valence": 0.663286046511628,
+            "avg_tempo": 120.27730232558137,
+            "avg_duration": 216475.22093023255,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1974-06-08",
+        "stats": {
+            "avg_danceability": 0.6152409638554216,
+            "avg_energy": 0.5991807228915661,
+            "avg_loudness": -10.595397590361443,
+            "avg_mode": 0.7590361445783133,
+            "avg_speechiness": 0.0586433734939759,
+            "avg_acousticness": 0.32428265060240963,
+            "avg_instrumentalness": 0.04339571518072288,
+            "avg_liveness": 0.21663493975903614,
+            "avg_valence": 0.6819036144578314,
+            "avg_tempo": 117.90977108433734,
+            "avg_duration": 222404.3012048193,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1975-01-04",
+        "stats": {
+            "avg_danceability": 0.5877142857142856,
+            "avg_energy": 0.5800909090909091,
+            "avg_loudness": -10.189493506493504,
+            "avg_mode": 0.8051948051948052,
+            "avg_speechiness": 0.04664285714285714,
+            "avg_acousticness": 0.368436077922078,
+            "avg_instrumentalness": 0.07486887948051948,
+            "avg_liveness": 0.1741428571428572,
+            "avg_valence": 0.6938961038961041,
+            "avg_tempo": 115.58958441558445,
+            "avg_duration": 225530.46753246753,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1975-06-07",
+        "stats": {
+            "avg_danceability": 0.5783,
+            "avg_energy": 0.62875,
+            "avg_loudness": -10.047437499999996,
+            "avg_mode": 0.7875,
+            "avg_speechiness": 0.05659375000000001,
+            "avg_acousticness": 0.31476087500000005,
+            "avg_instrumentalness": 0.065024534,
+            "avg_liveness": 0.19183624999999999,
+            "avg_valence": 0.7023874999999998,
+            "avg_tempo": 121.84711250000007,
+            "avg_duration": 222094.075,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1976-01-03",
+        "stats": {
+            "avg_danceability": 0.5741460674157305,
+            "avg_energy": 0.5835280898876406,
+            "avg_loudness": -10.44849438202247,
+            "avg_mode": 0.7303370786516854,
+            "avg_speechiness": 0.04748314606741573,
+            "avg_acousticness": 0.3250480415730339,
+            "avg_instrumentalness": 0.05791869202247191,
+            "avg_liveness": 0.17228202247191016,
+            "avg_valence": 0.6279764044943822,
+            "avg_tempo": 115.87021348314609,
+            "avg_duration": 250344.73033707865,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1976-06-05",
+        "stats": {
+            "avg_danceability": 0.6000121951219511,
+            "avg_energy": 0.6295487804878047,
+            "avg_loudness": -10.104146341463414,
+            "avg_mode": 0.7560975609756098,
+            "avg_speechiness": 0.05817317073170733,
+            "avg_acousticness": 0.2972001951219512,
+            "avg_instrumentalness": 0.07153654085365856,
+            "avg_liveness": 0.17963658536585367,
+            "avg_valence": 0.6992317073170733,
+            "avg_tempo": 119.89851219512195,
+            "avg_duration": 244411.41463414635,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1977-01-08",
+        "stats": {
+            "avg_danceability": 0.5725185185185186,
+            "avg_energy": 0.603037037037037,
+            "avg_loudness": -10.211604938271604,
+            "avg_mode": 0.7654320987654321,
+            "avg_speechiness": 0.0537530864197531,
+            "avg_acousticness": 0.3282604938271605,
+            "avg_instrumentalness": 0.022116331358024693,
+            "avg_liveness": 0.20039506172839505,
+            "avg_valence": 0.6292469135802471,
+            "avg_tempo": 120.28091358024695,
+            "avg_duration": 254250.66666666666,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1977-06-04",
+        "stats": {
+            "avg_danceability": 0.6087710843373493,
+            "avg_energy": 0.5950963855421688,
+            "avg_loudness": -10.175722891566265,
+            "avg_mode": 0.7469879518072289,
+            "avg_speechiness": 0.04678313253012049,
+            "avg_acousticness": 0.31163654216867465,
+            "avg_instrumentalness": 0.029899789277108436,
+            "avg_liveness": 0.19533253012048188,
+            "avg_valence": 0.6716746987951807,
+            "avg_tempo": 121.65373493975903,
+            "avg_duration": 236375.09638554216,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1978-01-07",
+        "stats": {
+            "avg_danceability": 0.5827132530120479,
+            "avg_energy": 0.5457253012048195,
+            "avg_loudness": -10.531927710843375,
+            "avg_mode": 0.7108433734939759,
+            "avg_speechiness": 0.04559277108433735,
+            "avg_acousticness": 0.29602742771084334,
+            "avg_instrumentalness": 0.06671123554216868,
+            "avg_liveness": 0.17130361445783135,
+            "avg_valence": 0.6122060240963857,
+            "avg_tempo": 119.8100240963855,
+            "avg_duration": 252042.26506024096,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1978-06-03",
+        "stats": {
+            "avg_danceability": 0.6073333333333334,
+            "avg_energy": 0.5823255555555558,
+            "avg_loudness": -10.488788888888887,
+            "avg_mode": 0.6777777777777778,
+            "avg_speechiness": 0.04726777777777779,
+            "avg_acousticness": 0.28491411111111115,
+            "avg_instrumentalness": 0.014574938000000006,
+            "avg_liveness": 0.1515544444444444,
+            "avg_valence": 0.6744666666666664,
+            "avg_tempo": 118.97094444444448,
+            "avg_duration": 241597.84444444443,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1979-01-06",
+        "stats": {
+            "avg_danceability": 0.6036436781609196,
+            "avg_energy": 0.5927701149425287,
+            "avg_loudness": -10.27935632183908,
+            "avg_mode": 0.7471264367816092,
+            "avg_speechiness": 0.05072528735632182,
+            "avg_acousticness": 0.24034287356321846,
+            "avg_instrumentalness": 0.03258288390804597,
+            "avg_liveness": 0.1896965517241379,
+            "avg_valence": 0.6559655172413796,
+            "avg_tempo": 118.81389655172413,
+            "avg_duration": 248792.7471264368,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1979-06-02",
+        "stats": {
+            "avg_danceability": 0.6778426966292135,
+            "avg_energy": 0.6357415730337079,
+            "avg_loudness": -10.341640449438202,
+            "avg_mode": 0.6404494382022472,
+            "avg_speechiness": 0.04796067415730339,
+            "avg_acousticness": 0.19272229213483139,
+            "avg_instrumentalness": 0.033382477415730326,
+            "avg_liveness": 0.13834831460674157,
+            "avg_valence": 0.759561797752809,
+            "avg_tempo": 122.18387640449444,
+            "avg_duration": 262838.91011235956,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1980-01-05",
+        "stats": {
+            "avg_danceability": 0.6058333333333332,
+            "avg_energy": 0.5908523809523809,
+            "avg_loudness": -10.354261904761907,
+            "avg_mode": 0.7619047619047619,
+            "avg_speechiness": 0.055280952380952375,
+            "avg_acousticness": 0.2967213095238096,
+            "avg_instrumentalness": 0.04912465511904761,
+            "avg_liveness": 0.16861666666666666,
+            "avg_valence": 0.6523440476190479,
+            "avg_tempo": 124.74510714285712,
+            "avg_duration": 263323.9761904762,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1980-06-07",
+        "stats": {
+            "avg_danceability": 0.6139634146341463,
+            "avg_energy": 0.5931073170731709,
+            "avg_loudness": -10.407524390243905,
+            "avg_mode": 0.7560975609756098,
+            "avg_speechiness": 0.04595000000000002,
+            "avg_acousticness": 0.25463409756097566,
+            "avg_instrumentalness": 0.04510595829268293,
+            "avg_liveness": 0.15975487804878047,
+            "avg_valence": 0.6507073170731711,
+            "avg_tempo": 119.7543048780488,
+            "avg_duration": 240171.51219512196,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1981-01-03",
+        "stats": {
+            "avg_danceability": 0.606809523809524,
+            "avg_energy": 0.6017380952380952,
+            "avg_loudness": -9.941630952380953,
+            "avg_mode": 0.7857142857142857,
+            "avg_speechiness": 0.04759523809523809,
+            "avg_acousticness": 0.2680305714285715,
+            "avg_instrumentalness": 0.010955910595238098,
+            "avg_liveness": 0.21032619047619047,
+            "avg_valence": 0.6522452380952384,
+            "avg_tempo": 124.68413095238091,
+            "avg_duration": 245708.4642857143,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1981-06-06",
+        "stats": {
+            "avg_danceability": 0.6184,
+            "avg_energy": 0.5867444444444445,
+            "avg_loudness": -10.161622222222222,
+            "avg_mode": 0.8,
+            "avg_speechiness": 0.044402222222222225,
+            "avg_acousticness": 0.31338522222222215,
+            "avg_instrumentalness": 0.006852074999999999,
+            "avg_liveness": 0.15869333333333335,
+            "avg_valence": 0.6417888888888887,
+            "avg_tempo": 117.81849999999999,
+            "avg_duration": 243473.42222222223,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1982-01-02",
+        "stats": {
+            "avg_danceability": 0.5745999999999999,
+            "avg_energy": 0.5685176470588233,
+            "avg_loudness": -10.160352941176473,
+            "avg_mode": 0.7411764705882353,
+            "avg_speechiness": 0.04639411764705881,
+            "avg_acousticness": 0.303475411764706,
+            "avg_instrumentalness": 0.05035537576470588,
+            "avg_liveness": 0.21422352941176465,
+            "avg_valence": 0.5695917647058824,
+            "avg_tempo": 121.12709411764702,
+            "avg_duration": 231829.02352941176,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1982-06-05",
+        "stats": {
+            "avg_danceability": 0.6284021739130435,
+            "avg_energy": 0.5984858695652172,
+            "avg_loudness": -9.911260869565217,
+            "avg_mode": 0.782608695652174,
+            "avg_speechiness": 0.04554782608695652,
+            "avg_acousticness": 0.24932960869565216,
+            "avg_instrumentalness": 0.04342647695652174,
+            "avg_liveness": 0.1746858695652174,
+            "avg_valence": 0.6751369565217391,
+            "avg_tempo": 122.95080434782605,
+            "avg_duration": 242234.98913043478,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1983-01-08",
+        "stats": {
+            "avg_danceability": 0.6328314606741573,
+            "avg_energy": 0.6072696629213485,
+            "avg_loudness": -10.079561797752806,
+            "avg_mode": 0.6404494382022472,
+            "avg_speechiness": 0.04670786516853933,
+            "avg_acousticness": 0.2295693955056179,
+            "avg_instrumentalness": 0.018626508539325848,
+            "avg_liveness": 0.15140449438202241,
+            "avg_valence": 0.678673033707865,
+            "avg_tempo": 119.41083146067416,
+            "avg_duration": 251451.47191011236,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1983-06-04",
+        "stats": {
+            "avg_danceability": 0.6355340909090912,
+            "avg_energy": 0.6651704545454546,
+            "avg_loudness": -9.485159090909093,
+            "avg_mode": 0.6704545454545454,
+            "avg_speechiness": 0.04708749999999998,
+            "avg_acousticness": 0.18487162500000007,
+            "avg_instrumentalness": 0.0388260746590909,
+            "avg_liveness": 0.1670965909090909,
+            "avg_valence": 0.673818181818182,
+            "avg_tempo": 125.89320454545454,
+            "avg_duration": 254852.14772727274,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1984-01-07",
+        "stats": {
+            "avg_danceability": 0.6349213483146067,
+            "avg_energy": 0.6544573033707867,
+            "avg_loudness": -9.141865168539328,
+            "avg_mode": 0.6404494382022472,
+            "avg_speechiness": 0.047093258426966295,
+            "avg_acousticness": 0.18311837752808993,
+            "avg_instrumentalness": 0.023974170337078653,
+            "avg_liveness": 0.17221910112359556,
+            "avg_valence": 0.646532584269663,
+            "avg_tempo": 126.00705617977533,
+            "avg_duration": 265738.52808988764,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1984-06-02",
+        "stats": {
+            "avg_danceability": 0.6611034482758621,
+            "avg_energy": 0.6710298850574713,
+            "avg_loudness": -9.481505747126436,
+            "avg_mode": 0.7011494252873564,
+            "avg_speechiness": 0.04359080459770114,
+            "avg_acousticness": 0.16426999080459775,
+            "avg_instrumentalness": 0.025512533103448278,
+            "avg_liveness": 0.18125862068965523,
+            "avg_valence": 0.6874505747126438,
+            "avg_tempo": 122.99056321839083,
+            "avg_duration": 260857.8620689655,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1985-01-05",
+        "stats": {
+            "avg_danceability": 0.6311190476190474,
+            "avg_energy": 0.6545000000000002,
+            "avg_loudness": -9.56542857142857,
+            "avg_mode": 0.7976190476190477,
+            "avg_speechiness": 0.03979880952380953,
+            "avg_acousticness": 0.17161727738095245,
+            "avg_instrumentalness": 0.0388335357142857,
+            "avg_liveness": 0.2149309523809524,
+            "avg_valence": 0.6215,
+            "avg_tempo": 117.63429761904763,
+            "avg_duration": 280865.3214285714,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1985-06-08",
+        "stats": {
+            "avg_danceability": 0.6502307692307693,
+            "avg_energy": 0.6753406593406596,
+            "avg_loudness": -9.523296703296703,
+            "avg_mode": 0.6263736263736264,
+            "avg_speechiness": 0.0447153846153846,
+            "avg_acousticness": 0.17991367032967032,
+            "avg_instrumentalness": 0.04859532373626375,
+            "avg_liveness": 0.17923736263736256,
+            "avg_valence": 0.6858901098901098,
+            "avg_tempo": 121.77378021978026,
+            "avg_duration": 258671.84615384616,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1986-01-04",
+        "stats": {
+            "avg_danceability": 0.6224772727272728,
+            "avg_energy": 0.6801818181818182,
+            "avg_loudness": -10.072704545454544,
+            "avg_mode": 0.6818181818181818,
+            "avg_speechiness": 0.0444965909090909,
+            "avg_acousticness": 0.19897098863636362,
+            "avg_instrumentalness": 0.02784830397727273,
+            "avg_liveness": 0.18975454545454548,
+            "avg_valence": 0.6469147727272727,
+            "avg_tempo": 119.32964772727269,
+            "avg_duration": 280385.0340909091,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1986-06-07",
+        "stats": {
+            "avg_danceability": 0.6273626373626374,
+            "avg_energy": 0.6831318681318681,
+            "avg_loudness": -10.349527472527473,
+            "avg_mode": 0.6923076923076923,
+            "avg_speechiness": 0.042064835164835175,
+            "avg_acousticness": 0.17565069120879123,
+            "avg_instrumentalness": 0.026055093956043933,
+            "avg_liveness": 0.1699703296703296,
+            "avg_valence": 0.6659615384615383,
+            "avg_tempo": 120.55928571428568,
+            "avg_duration": 261268.84615384616,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1987-01-03",
+        "stats": {
+            "avg_danceability": 0.6499302325581396,
+            "avg_energy": 0.6526744186046511,
+            "avg_loudness": -10.155406976744185,
+            "avg_mode": 0.7325581395348837,
+            "avg_speechiness": 0.04108139534883721,
+            "avg_acousticness": 0.2148608139534884,
+            "avg_instrumentalness": 0.02571716732558139,
+            "avg_liveness": 0.1763279069767442,
+            "avg_valence": 0.6811430232558141,
+            "avg_tempo": 119.70440697674418,
+            "avg_duration": 260388.8488372093,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1987-06-06",
+        "stats": {
+            "avg_danceability": 0.6457951807228913,
+            "avg_energy": 0.6910000000000001,
+            "avg_loudness": -9.754614457831321,
+            "avg_mode": 0.6987951807228916,
+            "avg_speechiness": 0.047214457831325315,
+            "avg_acousticness": 0.17497436144578318,
+            "avg_instrumentalness": 0.0318575274698795,
+            "avg_liveness": 0.1767120481927711,
+            "avg_valence": 0.6762289156626504,
+            "avg_tempo": 120.38902409638557,
+            "avg_duration": 267024.7469879518,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1988-01-02",
+        "stats": {
+            "avg_danceability": 0.627867469879518,
+            "avg_energy": 0.7029879518072291,
+            "avg_loudness": -9.411024096385544,
+            "avg_mode": 0.7228915662650602,
+            "avg_speechiness": 0.0472144578313253,
+            "avg_acousticness": 0.18473150602409635,
+            "avg_instrumentalness": 0.018109319036144572,
+            "avg_liveness": 0.20010000000000008,
+            "avg_valence": 0.6518433734939759,
+            "avg_tempo": 120.28672289156627,
+            "avg_duration": 257719.4096385542,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1988-06-04",
+        "stats": {
+            "avg_danceability": 0.6266777777777777,
+            "avg_energy": 0.6614333333333335,
+            "avg_loudness": -10.097222222222221,
+            "avg_mode": 0.7111111111111111,
+            "avg_speechiness": 0.04680666666666665,
+            "avg_acousticness": 0.1710959888888889,
+            "avg_instrumentalness": 0.06563292499999998,
+            "avg_liveness": 0.1656655555555555,
+            "avg_valence": 0.6221811111111111,
+            "avg_tempo": 120.94847777777775,
+            "avg_duration": 267046.3222222222,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1989-01-07",
+        "stats": {
+            "avg_danceability": 0.6317619047619049,
+            "avg_energy": 0.6580952380952382,
+            "avg_loudness": -9.968083333333336,
+            "avg_mode": 0.7142857142857143,
+            "avg_speechiness": 0.05510595238095237,
+            "avg_acousticness": 0.18817935714285716,
+            "avg_instrumentalness": 0.029129576190476188,
+            "avg_liveness": 0.16859880952380962,
+            "avg_valence": 0.6174166666666666,
+            "avg_tempo": 117.61504761904767,
+            "avg_duration": 258793.54761904763,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1989-06-03",
+        "stats": {
+            "avg_danceability": 0.6317738095238099,
+            "avg_energy": 0.703392857142857,
+            "avg_loudness": -9.352357142857144,
+            "avg_mode": 0.6547619047619048,
+            "avg_speechiness": 0.0464857142857143,
+            "avg_acousticness": 0.15186087619047628,
+            "avg_instrumentalness": 0.027291884285714284,
+            "avg_liveness": 0.1788440476190476,
+            "avg_valence": 0.6473452380952383,
+            "avg_tempo": 119.41638095238098,
+            "avg_duration": 260992.5119047619,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1990-01-06",
+        "stats": {
+            "avg_danceability": 0.6125121951219511,
+            "avg_energy": 0.6738048780487805,
+            "avg_loudness": -9.658768292682923,
+            "avg_mode": 0.7073170731707317,
+            "avg_speechiness": 0.046420731707317066,
+            "avg_acousticness": 0.1488706585365854,
+            "avg_instrumentalness": 0.029351425365853653,
+            "avg_liveness": 0.17173292682926825,
+            "avg_valence": 0.615548780487805,
+            "avg_tempo": 114.67507317073175,
+            "avg_duration": 286682.2073170732,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1990-06-02",
+        "stats": {
+            "avg_danceability": 0.6452531645569621,
+            "avg_energy": 0.6651265822784806,
+            "avg_loudness": -9.865898734177218,
+            "avg_mode": 0.6708860759493671,
+            "avg_speechiness": 0.06082531645569619,
+            "avg_acousticness": 0.13032044556962025,
+            "avg_instrumentalness": 0.026004759620253164,
+            "avg_liveness": 0.18925949367088607,
+            "avg_valence": 0.617227848101266,
+            "avg_tempo": 116.67477215189865,
+            "avg_duration": 275963.4810126582,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1991-01-05",
+        "stats": {
+            "avg_danceability": 0.6276585365853654,
+            "avg_energy": 0.6383670731707318,
+            "avg_loudness": -10.017036585365856,
+            "avg_mode": 0.7317073170731707,
+            "avg_speechiness": 0.0670658536585366,
+            "avg_acousticness": 0.20770748292682922,
+            "avg_instrumentalness": 0.04937731304878048,
+            "avg_liveness": 0.18270975609756102,
+            "avg_valence": 0.5945573170731709,
+            "avg_tempo": 118.2937926829268,
+            "avg_duration": 259639.63414634147,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1991-06-08",
+        "stats": {
+            "avg_danceability": 0.6272278481012658,
+            "avg_energy": 0.6879240506329114,
+            "avg_loudness": -9.13173417721519,
+            "avg_mode": 0.7974683544303798,
+            "avg_speechiness": 0.04571518987341772,
+            "avg_acousticness": 0.13595693797468353,
+            "avg_instrumentalness": 0.06263231075949367,
+            "avg_liveness": 0.166026582278481,
+            "avg_valence": 0.5900898734177215,
+            "avg_tempo": 118.45788607594938,
+            "avg_duration": 278320.82278481015,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1992-01-04",
+        "stats": {
+            "avg_danceability": 0.6419512195121948,
+            "avg_energy": 0.6669756097560976,
+            "avg_loudness": -9.539634146341468,
+            "avg_mode": 0.6219512195121951,
+            "avg_speechiness": 0.05492926829268294,
+            "avg_acousticness": 0.12481841707317072,
+            "avg_instrumentalness": 0.03342779926829269,
+            "avg_liveness": 0.18489634146341466,
+            "avg_valence": 0.5844756097560977,
+            "avg_tempo": 117.7578536585366,
+            "avg_duration": 273990.93902439025,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1992-06-06",
+        "stats": {
+            "avg_danceability": 0.6617764705882353,
+            "avg_energy": 0.6291411764705882,
+            "avg_loudness": -9.923894117647059,
+            "avg_mode": 0.5647058823529412,
+            "avg_speechiness": 0.06698941176470585,
+            "avg_acousticness": 0.15669628235294114,
+            "avg_instrumentalness": 0.03497136164705882,
+            "avg_liveness": 0.1589870588235294,
+            "avg_valence": 0.5827529411764706,
+            "avg_tempo": 119.91785882352941,
+            "avg_duration": 272092.6705882353,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1993-01-02",
+        "stats": {
+            "avg_danceability": 0.6304390243902439,
+            "avg_energy": 0.6396707317073166,
+            "avg_loudness": -9.44319512195122,
+            "avg_mode": 0.6829268292682927,
+            "avg_speechiness": 0.06193048780487805,
+            "avg_acousticness": 0.16124275000000005,
+            "avg_instrumentalness": 0.03510271414634145,
+            "avg_liveness": 0.17613658536585358,
+            "avg_valence": 0.5603317073170732,
+            "avg_tempo": 120.79080487804875,
+            "avg_duration": 271755.0,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1993-06-05",
+        "stats": {
+            "avg_danceability": 0.6553924050632912,
+            "avg_energy": 0.6419873417721517,
+            "avg_loudness": -9.31058227848101,
+            "avg_mode": 0.6329113924050633,
+            "avg_speechiness": 0.08126455696202532,
+            "avg_acousticness": 0.13631572151898735,
+            "avg_instrumentalness": 0.039810304556962016,
+            "avg_liveness": 0.19163164556962026,
+            "avg_valence": 0.5529240506329115,
+            "avg_tempo": 118.43467088607592,
+            "avg_duration": 276712.83544303797,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1994-01-08",
+        "stats": {
+            "avg_danceability": 0.6445119047619049,
+            "avg_energy": 0.6110833333333334,
+            "avg_loudness": -9.405523809523809,
+            "avg_mode": 0.6785714285714286,
+            "avg_speechiness": 0.08366666666666667,
+            "avg_acousticness": 0.1773929178571429,
+            "avg_instrumentalness": 0.03435610071428571,
+            "avg_liveness": 0.2029738095238095,
+            "avg_valence": 0.5445119047619046,
+            "avg_tempo": 121.98191666666669,
+            "avg_duration": 271838.2619047619,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1994-06-04",
+        "stats": {
+            "avg_danceability": 0.6369855072463768,
+            "avg_energy": 0.6399130434782608,
+            "avg_loudness": -8.345826086956523,
+            "avg_mode": 0.6376811594202898,
+            "avg_speechiness": 0.09165217391304348,
+            "avg_acousticness": 0.17876457971014492,
+            "avg_instrumentalness": 0.013805286666666666,
+            "avg_liveness": 0.1824565217391305,
+            "avg_valence": 0.5526811594202898,
+            "avg_tempo": 117.6441304347826,
+            "avg_duration": 265312.71014492755,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1995-01-07",
+        "stats": {
+            "avg_danceability": 0.6467402597402595,
+            "avg_energy": 0.6124155844155845,
+            "avg_loudness": -8.692181818181819,
+            "avg_mode": 0.6493506493506493,
+            "avg_speechiness": 0.07878961038961042,
+            "avg_acousticness": 0.23032520779220783,
+            "avg_instrumentalness": 0.034800151168831166,
+            "avg_liveness": 0.15948831168831165,
+            "avg_valence": 0.568587012987013,
+            "avg_tempo": 119.78989610389613,
+            "avg_duration": 257850.93506493507,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1995-06-03",
+        "stats": {
+            "avg_danceability": 0.6435131578947368,
+            "avg_energy": 0.6395131578947367,
+            "avg_loudness": -8.597184210526317,
+            "avg_mode": 0.6710526315789473,
+            "avg_speechiness": 0.06256973684210528,
+            "avg_acousticness": 0.18579936842105263,
+            "avg_instrumentalness": 0.036270432763157896,
+            "avg_liveness": 0.16637236842105257,
+            "avg_valence": 0.5576052631578949,
+            "avg_tempo": 123.43451315789473,
+            "avg_duration": 261214.7105263158,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1996-01-06",
+        "stats": {
+            "avg_danceability": 0.6513733333333331,
+            "avg_energy": 0.6351733333333333,
+            "avg_loudness": -8.229226666666667,
+            "avg_mode": 0.7066666666666667,
+            "avg_speechiness": 0.08227999999999999,
+            "avg_acousticness": 0.22858661733333335,
+            "avg_instrumentalness": 0.051987069066666676,
+            "avg_liveness": 0.19088266666666664,
+            "avg_valence": 0.5762533333333334,
+            "avg_tempo": 116.70180000000003,
+            "avg_duration": 260567.76,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1996-06-08",
+        "stats": {
+            "avg_danceability": 0.63405,
+            "avg_energy": 0.6519166666666669,
+            "avg_loudness": -7.781066666666669,
+            "avg_mode": 0.55,
+            "avg_speechiness": 0.07504000000000004,
+            "avg_acousticness": 0.18686012833333335,
+            "avg_instrumentalness": 0.043111757833333327,
+            "avg_liveness": 0.17753999999999995,
+            "avg_valence": 0.5751233333333334,
+            "avg_tempo": 117.08843333333336,
+            "avg_duration": 254569.48333333334,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1997-01-04",
+        "stats": {
+            "avg_danceability": 0.6593970588235294,
+            "avg_energy": 0.6350632352941178,
+            "avg_loudness": -7.87633823529412,
+            "avg_mode": 0.6617647058823529,
+            "avg_speechiness": 0.07780441176470584,
+            "avg_acousticness": 0.1964637720588235,
+            "avg_instrumentalness": 0.03423074323529409,
+            "avg_liveness": 0.1754058823529412,
+            "avg_valence": 0.5967088235294119,
+            "avg_tempo": 119.8932205882353,
+            "avg_duration": 262015.4411764706,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1997-06-07",
+        "stats": {
+            "avg_danceability": 0.6614507042253521,
+            "avg_energy": 0.638056338028169,
+            "avg_loudness": -8.28961971830986,
+            "avg_mode": 0.6197183098591549,
+            "avg_speechiness": 0.08648028169014087,
+            "avg_acousticness": 0.1965001267605633,
+            "avg_instrumentalness": 0.03909759633802817,
+            "avg_liveness": 0.18882253521126757,
+            "avg_valence": 0.561385915492958,
+            "avg_tempo": 121.09126760563385,
+            "avg_duration": 261808.0704225352,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1998-01-03",
+        "stats": {
+            "avg_danceability": 0.6492631578947369,
+            "avg_energy": 0.6163684210526315,
+            "avg_loudness": -7.555065789473685,
+            "avg_mode": 0.7368421052631579,
+            "avg_speechiness": 0.07462894736842107,
+            "avg_acousticness": 0.22476685526315787,
+            "avg_instrumentalness": 0.03365984513157896,
+            "avg_liveness": 0.1511828947368421,
+            "avg_valence": 0.5483552631578947,
+            "avg_tempo": 120.93469736842106,
+            "avg_duration": 262021.19736842104,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1998-06-06",
+        "stats": {
+            "avg_danceability": 0.6403648648648648,
+            "avg_energy": 0.6102027027027027,
+            "avg_loudness": -8.016945945945945,
+            "avg_mode": 0.7567567567567568,
+            "avg_speechiness": 0.08362432432432433,
+            "avg_acousticness": 0.2480464054054054,
+            "avg_instrumentalness": 0.0084779,
+            "avg_liveness": 0.19567837837837831,
+            "avg_valence": 0.5334891891891894,
+            "avg_tempo": 120.08916216216221,
+            "avg_duration": 249601.24324324325,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1999-01-02",
+        "stats": {
+            "avg_danceability": 0.610654761904762,
+            "avg_energy": 0.6120523809523808,
+            "avg_loudness": -7.493404761904763,
+            "avg_mode": 0.7142857142857143,
+            "avg_speechiness": 0.05513571428571429,
+            "avg_acousticness": 0.2238325695238095,
+            "avg_instrumentalness": 0.0163357430952381,
+            "avg_liveness": 0.19007380952380945,
+            "avg_valence": 0.5173059523809524,
+            "avg_tempo": 119.20528571428576,
+            "avg_duration": 240314.95238095237,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "1999-06-05",
+        "stats": {
+            "avg_danceability": 0.6369268292682927,
+            "avg_energy": 0.6569317073170734,
+            "avg_loudness": -7.1043292682926795,
+            "avg_mode": 0.7195121951219512,
+            "avg_speechiness": 0.049580487804878046,
+            "avg_acousticness": 0.1645566682926829,
+            "avg_instrumentalness": 0.014766862317073172,
+            "avg_liveness": 0.15721829268292684,
+            "avg_valence": 0.5559902439024388,
+            "avg_tempo": 112.82293902439024,
+            "avg_duration": 244543.82926829267,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2000-01-08",
+        "stats": {
+            "avg_danceability": 0.6158717948717948,
+            "avg_energy": 0.6832179487179486,
+            "avg_loudness": -6.832448717948717,
+            "avg_mode": 0.6923076923076923,
+            "avg_speechiness": 0.07320128205128205,
+            "avg_acousticness": 0.16661931794871793,
+            "avg_instrumentalness": 0.018339427692307685,
+            "avg_liveness": 0.1920935897435897,
+            "avg_valence": 0.5531179487179486,
+            "avg_tempo": 118.03462820512821,
+            "avg_duration": 253432.94871794872,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2000-06-03",
+        "stats": {
+            "avg_danceability": 0.6541264367816092,
+            "avg_energy": 0.6921954022988508,
+            "avg_loudness": -6.443471264367816,
+            "avg_mode": 0.6551724137931034,
+            "avg_speechiness": 0.06910689655172413,
+            "avg_acousticness": 0.15486061494252878,
+            "avg_instrumentalness": 0.026761479770114945,
+            "avg_liveness": 0.15315402298850575,
+            "avg_valence": 0.5823988505747125,
+            "avg_tempo": 117.17280459770117,
+            "avg_duration": 245564.3448275862,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2001-01-06",
+        "stats": {
+            "avg_danceability": 0.6385749999999999,
+            "avg_energy": 0.6803374999999997,
+            "avg_loudness": -6.3212625000000005,
+            "avg_mode": 0.6125,
+            "avg_speechiness": 0.07053375000000002,
+            "avg_acousticness": 0.18630147499999997,
+            "avg_instrumentalness": 0.00314836975,
+            "avg_liveness": 0.1699412499999999,
+            "avg_valence": 0.5483825,
+            "avg_tempo": 111.6261125,
+            "avg_duration": 240700.4875,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2001-06-02",
+        "stats": {
+            "avg_danceability": 0.6379863013698629,
+            "avg_energy": 0.7064246575342467,
+            "avg_loudness": -6.33231506849315,
+            "avg_mode": 0.684931506849315,
+            "avg_speechiness": 0.07775890410958904,
+            "avg_acousticness": 0.140533698630137,
+            "avg_instrumentalness": 0.0012496335616438354,
+            "avg_liveness": 0.18840273972602736,
+            "avg_valence": 0.5700054794520548,
+            "avg_tempo": 112.69646575342465,
+            "avg_duration": 240248.97260273973,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2002-01-05",
+        "stats": {
+            "avg_danceability": 0.617,
+            "avg_energy": 0.6866263157894735,
+            "avg_loudness": -6.207447368421053,
+            "avg_mode": 0.618421052631579,
+            "avg_speechiness": 0.08816578947368421,
+            "avg_acousticness": 0.1842910671052632,
+            "avg_instrumentalness": 0.015021557763157901,
+            "avg_liveness": 0.16586184210526317,
+            "avg_valence": 0.5542026315789471,
+            "avg_tempo": 112.0466184210526,
+            "avg_duration": 244660.67105263157,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2002-06-08",
+        "stats": {
+            "avg_danceability": 0.62,
+            "avg_energy": 0.6898375000000001,
+            "avg_loudness": -5.948199999999999,
+            "avg_mode": 0.6875,
+            "avg_speechiness": 0.09303000000000002,
+            "avg_acousticness": 0.16067652262499996,
+            "avg_instrumentalness": 0.019373852249999997,
+            "avg_liveness": 0.15380000000000005,
+            "avg_valence": 0.57295,
+            "avg_tempo": 124.98556249999993,
+            "avg_duration": 240032.75,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2003-01-04",
+        "stats": {
+            "avg_danceability": 0.6068472222222221,
+            "avg_energy": 0.7164305555555557,
+            "avg_loudness": -5.6785972222222245,
+            "avg_mode": 0.6527777777777778,
+            "avg_speechiness": 0.08582777777777778,
+            "avg_acousticness": 0.1559462625,
+            "avg_instrumentalness": 0.008769655833333332,
+            "avg_liveness": 0.18258333333333326,
+            "avg_valence": 0.5276305555555556,
+            "avg_tempo": 117.40388888888889,
+            "avg_duration": 245025.125,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2003-06-07",
+        "stats": {
+            "avg_danceability": 0.5939859154929575,
+            "avg_energy": 0.6967464788732396,
+            "avg_loudness": -5.736873239436621,
+            "avg_mode": 0.647887323943662,
+            "avg_speechiness": 0.09620985915492959,
+            "avg_acousticness": 0.17181283098591543,
+            "avg_instrumentalness": 0.00424179,
+            "avg_liveness": 0.17070281690140848,
+            "avg_valence": 0.5128450704225352,
+            "avg_tempo": 119.97387323943667,
+            "avg_duration": 242852.64788732395,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2004-01-03",
+        "stats": {
+            "avg_danceability": 0.5999871794871796,
+            "avg_energy": 0.7227051282051283,
+            "avg_loudness": -5.695628205128205,
+            "avg_mode": 0.717948717948718,
+            "avg_speechiness": 0.08430897435897435,
+            "avg_acousticness": 0.1358609487179487,
+            "avg_instrumentalness": 0.014074145256410252,
+            "avg_liveness": 0.20060000000000003,
+            "avg_valence": 0.5162820512820512,
+            "avg_tempo": 114.54564102564109,
+            "avg_duration": 245263.2435897436,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2004-06-05",
+        "stats": {
+            "avg_danceability": 0.6056486486486486,
+            "avg_energy": 0.7079189189189188,
+            "avg_loudness": -6.086094594594593,
+            "avg_mode": 0.7432432432432432,
+            "avg_speechiness": 0.09539864864864868,
+            "avg_acousticness": 0.1676420351351351,
+            "avg_instrumentalness": 0.028336504189189187,
+            "avg_liveness": 0.16938108108108116,
+            "avg_valence": 0.5239351351351349,
+            "avg_tempo": 122.42124324324325,
+            "avg_duration": 234953.3108108108,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2005-01-08",
+        "stats": {
+            "avg_danceability": 0.6265733333333333,
+            "avg_energy": 0.7108666666666663,
+            "avg_loudness": -5.813559999999999,
+            "avg_mode": 0.7333333333333333,
+            "avg_speechiness": 0.10458533333333335,
+            "avg_acousticness": 0.15828411733333336,
+            "avg_instrumentalness": 0.031016450933333335,
+            "avg_liveness": 0.17153066666666666,
+            "avg_valence": 0.5558120000000001,
+            "avg_tempo": 125.92277333333334,
+            "avg_duration": 238325.49333333335,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2005-06-04",
+        "stats": {
+            "avg_danceability": 0.626,
+            "avg_energy": 0.7233947368421051,
+            "avg_loudness": -5.8380789473684205,
+            "avg_mode": 0.7368421052631579,
+            "avg_speechiness": 0.09971052631578946,
+            "avg_acousticness": 0.1386440789473684,
+            "avg_instrumentalness": 0.004844419078947369,
+            "avg_liveness": 0.18200921052631575,
+            "avg_valence": 0.547842105263158,
+            "avg_tempo": 122.77259210526317,
+            "avg_duration": 243184.81578947368,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2006-01-07",
+        "stats": {
+            "avg_danceability": 0.6147733333333335,
+            "avg_energy": 0.6890666666666666,
+            "avg_loudness": -5.893266666666665,
+            "avg_mode": 0.7066666666666667,
+            "avg_speechiness": 0.0983773333333333,
+            "avg_acousticness": 0.13328672533333336,
+            "avg_instrumentalness": 0.026030555066666662,
+            "avg_liveness": 0.18722933333333333,
+            "avg_valence": 0.5141026666666666,
+            "avg_tempo": 124.11707999999999,
+            "avg_duration": 233951.90666666668,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2006-06-03",
+        "stats": {
+            "avg_danceability": 0.6061666666666669,
+            "avg_energy": 0.749923076923077,
+            "avg_loudness": -5.096102564102564,
+            "avg_mode": 0.7307692307692307,
+            "avg_speechiness": 0.08151666666666665,
+            "avg_acousticness": 0.14701551153846149,
+            "avg_instrumentalness": 0.00100640858974359,
+            "avg_liveness": 0.17233717948717953,
+            "avg_valence": 0.5399230769230766,
+            "avg_tempo": 125.53214102564104,
+            "avg_duration": 231754.76923076922,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2007-01-06",
+        "stats": {
+            "avg_danceability": 0.5850666666666665,
+            "avg_energy": 0.7126589333333335,
+            "avg_loudness": -5.544653333333333,
+            "avg_mode": 0.7066666666666667,
+            "avg_speechiness": 0.07690133333333338,
+            "avg_acousticness": 0.15134778666666668,
+            "avg_instrumentalness": 0.014146520266666664,
+            "avg_liveness": 0.177276,
+            "avg_valence": 0.5095733333333334,
+            "avg_tempo": 121.18737333333333,
+            "avg_duration": 236485.24,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2007-06-02",
+        "stats": {
+            "avg_danceability": 0.6142000000000003,
+            "avg_energy": 0.7315866666666666,
+            "avg_loudness": -5.461613333333332,
+            "avg_mode": 0.7066666666666667,
+            "avg_speechiness": 0.09080666666666667,
+            "avg_acousticness": 0.13728036133333332,
+            "avg_instrumentalness": 0.0014129855999999998,
+            "avg_liveness": 0.17887466666666668,
+            "avg_valence": 0.5419733333333333,
+            "avg_tempo": 121.40726666666662,
+            "avg_duration": 233003.82666666666,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2008-01-05",
+        "stats": {
+            "avg_danceability": 0.6028208955223882,
+            "avg_energy": 0.7090298507462688,
+            "avg_loudness": -5.1613731343283575,
+            "avg_mode": 0.7313432835820896,
+            "avg_speechiness": 0.06416567164179102,
+            "avg_acousticness": 0.1868070597014925,
+            "avg_instrumentalness": 0.00024917850746268653,
+            "avg_liveness": 0.15540298507462688,
+            "avg_valence": 0.5139865671641791,
+            "avg_tempo": 125.20068656716421,
+            "avg_duration": 231587.98507462686,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2008-06-07",
+        "stats": {
+            "avg_danceability": 0.5931999999999998,
+            "avg_energy": 0.7150615384615385,
+            "avg_loudness": -5.7216461538461525,
+            "avg_mode": 0.7538461538461538,
+            "avg_speechiness": 0.0788323076923077,
+            "avg_acousticness": 0.16411626153846146,
+            "avg_instrumentalness": 0.004964375538461538,
+            "avg_liveness": 0.18255076923076924,
+            "avg_valence": 0.5477938461538462,
+            "avg_tempo": 118.77264615384615,
+            "avg_duration": 225621.72307692308,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2009-01-03",
+        "stats": {
+            "avg_danceability": 0.5863999999999998,
+            "avg_energy": 0.71384,
+            "avg_loudness": -5.489226666666669,
+            "avg_mode": 0.6933333333333334,
+            "avg_speechiness": 0.06597066666666664,
+            "avg_acousticness": 0.16712476666666673,
+            "avg_instrumentalness": 0.007517746533333329,
+            "avg_liveness": 0.18005999999999997,
+            "avg_valence": 0.4814973333333334,
+            "avg_tempo": 132.11112,
+            "avg_duration": 232812.01333333334,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2009-06-06",
+        "stats": {
+            "avg_danceability": 0.6094473684210523,
+            "avg_energy": 0.7348026315789473,
+            "avg_loudness": -5.2386447368421045,
+            "avg_mode": 0.6578947368421053,
+            "avg_speechiness": 0.06488947368421054,
+            "avg_acousticness": 0.14005386052631577,
+            "avg_instrumentalness": 0.012058472236842102,
+            "avg_liveness": 0.1841657894736842,
+            "avg_valence": 0.5276539473684211,
+            "avg_tempo": 122.15002631578948,
+            "avg_duration": 230648.06578947368,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2010-01-02",
+        "stats": {
+            "avg_danceability": 0.5889866666666668,
+            "avg_energy": 0.75108,
+            "avg_loudness": -4.863026666666666,
+            "avg_mode": 0.7066666666666667,
+            "avg_speechiness": 0.07139733333333333,
+            "avg_acousticness": 0.1084379866666667,
+            "avg_instrumentalness": 0.008361554400000002,
+            "avg_liveness": 0.18791333333333338,
+            "avg_valence": 0.5198933333333334,
+            "avg_tempo": 124.37032000000002,
+            "avg_duration": 238049.16,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2010-06-05",
+        "stats": {
+            "avg_danceability": 0.591030303030303,
+            "avg_energy": 0.709848484848485,
+            "avg_loudness": -5.42640909090909,
+            "avg_mode": 0.7272727272727273,
+            "avg_speechiness": 0.06792878787878785,
+            "avg_acousticness": 0.17509101515151515,
+            "avg_instrumentalness": 0.0008479593939393941,
+            "avg_liveness": 0.21605151515151516,
+            "avg_valence": 0.5150909090909094,
+            "avg_tempo": 118.58521212121215,
+            "avg_duration": 224916.66666666666,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2011-01-08",
+        "stats": {
+            "avg_danceability": 0.5919062500000001,
+            "avg_energy": 0.7307031249999999,
+            "avg_loudness": -5.4518281250000005,
+            "avg_mode": 0.75,
+            "avg_speechiness": 0.06597968750000002,
+            "avg_acousticness": 0.148616953125,
+            "avg_instrumentalness": 0.003005387500000001,
+            "avg_liveness": 0.15952031249999998,
+            "avg_valence": 0.525259375,
+            "avg_tempo": 126.44553125,
+            "avg_duration": 230008.6875,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2011-06-04",
+        "stats": {
+            "avg_danceability": 0.5963333333333333,
+            "avg_energy": 0.7239583333333333,
+            "avg_loudness": -5.397958333333333,
+            "avg_mode": 0.7777777777777778,
+            "avg_speechiness": 0.07425833333333332,
+            "avg_acousticness": 0.17251365555555548,
+            "avg_instrumentalness": 0.024854185138888894,
+            "avg_liveness": 0.1791555555555555,
+            "avg_valence": 0.5389027777777776,
+            "avg_tempo": 127.5975555555556,
+            "avg_duration": 229885.45833333334,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2012-01-07",
+        "stats": {
+            "avg_danceability": 0.6234202898550726,
+            "avg_energy": 0.750840579710145,
+            "avg_loudness": -5.353463768115941,
+            "avg_mode": 0.7246376811594203,
+            "avg_speechiness": 0.08717536231884056,
+            "avg_acousticness": 0.1481228115942029,
+            "avg_instrumentalness": 0.03369581188405797,
+            "avg_liveness": 0.18301014492753628,
+            "avg_valence": 0.5502753623188406,
+            "avg_tempo": 123.9422028985507,
+            "avg_duration": 226170.20289855072,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2012-06-02",
+        "stats": {
+            "avg_danceability": 0.6049710144927538,
+            "avg_energy": 0.74868115942029,
+            "avg_loudness": -5.256231884057971,
+            "avg_mode": 0.7391304347826086,
+            "avg_speechiness": 0.06175507246376813,
+            "avg_acousticness": 0.09427436231884062,
+            "avg_instrumentalness": 0.0008565465217391305,
+            "avg_liveness": 0.1600927536231884,
+            "avg_valence": 0.5515797101449275,
+            "avg_tempo": 126.35799999999996,
+            "avg_duration": 225307.46376811594,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2013-01-05",
+        "stats": {
+            "avg_danceability": 0.6017297297297295,
+            "avg_energy": 0.6672702702702704,
+            "avg_loudness": -6.170297297297298,
+            "avg_mode": 0.7567567567567568,
+            "avg_speechiness": 0.07154324324324324,
+            "avg_acousticness": 0.14682520270270272,
+            "avg_instrumentalness": 0.00392092918918919,
+            "avg_liveness": 0.1627945945945946,
+            "avg_valence": 0.4786878378378379,
+            "avg_tempo": 121.05948648648649,
+            "avg_duration": 234980.75675675675,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2013-06-08",
+        "stats": {
+            "avg_danceability": 0.598453125,
+            "avg_energy": 0.7010312499999999,
+            "avg_loudness": -5.768750000000001,
+            "avg_mode": 0.71875,
+            "avg_speechiness": 0.06854531249999998,
+            "avg_acousticness": 0.15564370312499995,
+            "avg_instrumentalness": 0.011571554218749999,
+            "avg_liveness": 0.1910875,
+            "avg_valence": 0.5088906249999999,
+            "avg_tempo": 127.277125,
+            "avg_duration": 227335.65625,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2014-01-04",
+        "stats": {
+            "avg_danceability": 0.5767972972972972,
+            "avg_energy": 0.6988108108108109,
+            "avg_loudness": -5.571351351351351,
+            "avg_mode": 0.8243243243243243,
+            "avg_speechiness": 0.07134459459459461,
+            "avg_acousticness": 0.17315427027027025,
+            "avg_instrumentalness": 0.014664316621621626,
+            "avg_liveness": 0.18464324324324322,
+            "avg_valence": 0.46040000000000003,
+            "avg_tempo": 124.07833783783782,
+            "avg_duration": 225449.95945945947,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2014-06-07",
+        "stats": {
+            "avg_danceability": 0.5973561643835619,
+            "avg_energy": 0.7112739726027397,
+            "avg_loudness": -5.5717260273972595,
+            "avg_mode": 0.7534246575342466,
+            "avg_speechiness": 0.0633849315068493,
+            "avg_acousticness": 0.16981247945205477,
+            "avg_instrumentalness": 0.012686849315068494,
+            "avg_liveness": 0.16218356164383557,
+            "avg_valence": 0.5340342465753426,
+            "avg_tempo": 120.69704109589044,
+            "avg_duration": 231428.32876712328,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2015-01-03",
+        "stats": {
+            "avg_danceability": 0.6144583333333333,
+            "avg_energy": 0.6927638888888887,
+            "avg_loudness": -5.98245833333333,
+            "avg_mode": 0.7638888888888888,
+            "avg_speechiness": 0.0721888888888889,
+            "avg_acousticness": 0.1735040972222222,
+            "avg_instrumentalness": 0.002943392777777778,
+            "avg_liveness": 0.18533472222222225,
+            "avg_valence": 0.5037652777777777,
+            "avg_tempo": 124.58043055555557,
+            "avg_duration": 222861.73611111112,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2015-06-06",
+        "stats": {
+            "avg_danceability": 0.6197702702702702,
+            "avg_energy": 0.6781351351351353,
+            "avg_loudness": -5.920256756756758,
+            "avg_mode": 0.6891891891891891,
+            "avg_speechiness": 0.07497567567567566,
+            "avg_acousticness": 0.1701827027027028,
+            "avg_instrumentalness": 0.012798441621621621,
+            "avg_liveness": 0.1892783783783784,
+            "avg_valence": 0.5161216216216216,
+            "avg_tempo": 130.9947027027027,
+            "avg_duration": 214153.2162162162,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2016-01-02",
+        "stats": {
+            "avg_danceability": 0.64355,
+            "avg_energy": 0.6641249999999997,
+            "avg_loudness": -5.920099999999999,
+            "avg_mode": 0.675,
+            "avg_speechiness": 0.09851750000000001,
+            "avg_acousticness": 0.17393106249999996,
+            "avg_instrumentalness": 0.002945597125,
+            "avg_liveness": 0.192425,
+            "avg_valence": 0.50195,
+            "avg_tempo": 126.01776249999998,
+            "avg_duration": 215934.5,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2016-06-04",
+        "stats": {
+            "avg_danceability": 0.6247352941176473,
+            "avg_energy": 0.6164338235294118,
+            "avg_loudness": -6.742117647058824,
+            "avg_mode": 0.5294117647058824,
+            "avg_speechiness": 0.12684558823529407,
+            "avg_acousticness": 0.19747398529411764,
+            "avg_instrumentalness": 0.0001845260294117647,
+            "avg_liveness": 0.1970617647058823,
+            "avg_valence": 0.4623073529411766,
+            "avg_tempo": 120.5810294117647,
+            "avg_duration": 218747.9705882353,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2017-01-07",
+        "stats": {
+            "avg_danceability": 0.6291791044776119,
+            "avg_energy": 0.5825970149253731,
+            "avg_loudness": -7.359701492537313,
+            "avg_mode": 0.6567164179104478,
+            "avg_speechiness": 0.1266537313432836,
+            "avg_acousticness": 0.2738858208955225,
+            "avg_instrumentalness": 0.0017773319402985075,
+            "avg_liveness": 0.14860597014925375,
+            "avg_valence": 0.4720402985074625,
+            "avg_tempo": 123.94883582089547,
+            "avg_duration": 214282.91044776118,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2017-06-03",
+        "stats": {
+            "avg_danceability": 0.6683432835820897,
+            "avg_energy": 0.6440149253731344,
+            "avg_loudness": -5.937701492537315,
+            "avg_mode": 0.6716417910447762,
+            "avg_speechiness": 0.11043432835820896,
+            "avg_acousticness": 0.1649189850746268,
+            "avg_instrumentalness": 0.004298766268656716,
+            "avg_liveness": 0.13406567164179103,
+            "avg_valence": 0.5007611940298509,
+            "avg_tempo": 124.57113432835817,
+            "avg_duration": 216791.53731343284,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2018-01-03",
+        "stats": {
+            "avg_danceability": 0.6677285714285713,
+            "avg_energy": 0.5945285714285713,
+            "avg_loudness": -6.854299999999999,
+            "avg_mode": 0.7,
+            "avg_speechiness": 0.09442142857142859,
+            "avg_acousticness": 0.2323358571428572,
+            "avg_instrumentalness": 0.0020323054285714287,
+            "avg_liveness": 0.1445014285714286,
+            "avg_valence": 0.5191728571428573,
+            "avg_tempo": 120.72352857142856,
+            "avg_duration": 203275.7,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2018-06-02",
+        "stats": {
+            "avg_danceability": 0.6893600000000003,
+            "avg_energy": 0.66048,
+            "avg_loudness": -5.71032,
+            "avg_mode": 0.6533333333333333,
+            "avg_speechiness": 0.13081066666666671,
+            "avg_acousticness": 0.13997106666666667,
+            "avg_instrumentalness": 0.0001638672,
+            "avg_liveness": 0.1821893333333334,
+            "avg_valence": 0.46004533333333353,
+            "avg_tempo": 119.11337333333331,
+            "avg_duration": 203707.10666666666,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2019-01-05",
+        "stats": {
+            "avg_danceability": 0.6443124999999998,
+            "avg_energy": 0.5629250000000002,
+            "avg_loudness": -7.487399999999999,
+            "avg_mode": 0.7375,
+            "avg_speechiness": 0.10398750000000001,
+            "avg_acousticness": 0.3353746999999999,
+            "avg_instrumentalness": 0.009172588624999999,
+            "avg_liveness": 0.1917575,
+            "avg_valence": 0.4898824999999999,
+            "avg_tempo": 121.84987500000004,
+            "avg_duration": 191696.625,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2019-06-08",
+        "stats": {
+            "avg_danceability": 0.6924210526315794,
+            "avg_energy": 0.6182236842105264,
+            "avg_loudness": -6.148171052631577,
+            "avg_mode": 0.6842105263157895,
+            "avg_speechiness": 0.11140263157894736,
+            "avg_acousticness": 0.24827565789473677,
+            "avg_instrumentalness": 0.00867226907894737,
+            "avg_liveness": 0.15618157894736842,
+            "avg_valence": 0.5196842105263157,
+            "avg_tempo": 118.62759210526313,
+            "avg_duration": 199997.48684210525,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2020-01-04",
+        "stats": {
+            "avg_danceability": 0.6353625000000002,
+            "avg_energy": 0.555625,
+            "avg_loudness": -7.4942375,
+            "avg_mode": 0.625,
+            "avg_speechiness": 0.08561625000000002,
+            "avg_acousticness": 0.3530417500000001,
+            "avg_instrumentalness": 0.014394812625,
+            "avg_liveness": 0.19260624999999995,
+            "avg_valence": 0.5290912500000001,
+            "avg_tempo": 119.51598750000002,
+            "avg_duration": 182224.5625,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2020-01-04",
+        "stats": {
+            "avg_danceability": 0.6353625000000002,
+            "avg_energy": 0.555625,
+            "avg_loudness": -7.4942375,
+            "avg_mode": 0.625,
+            "avg_speechiness": 0.08561625000000002,
+            "avg_acousticness": 0.3530417500000001,
+            "avg_instrumentalness": 0.014394812625,
+            "avg_liveness": 0.19260624999999995,
+            "avg_valence": 0.5290912500000001,
+            "avg_tempo": 119.51598750000002,
+            "avg_duration": 182224.5625,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2020-06-06",
+        "stats": {
+            "avg_danceability": 0.708731343283582,
+            "avg_energy": 0.627776119402985,
+            "avg_loudness": -6.462358208955221,
+            "avg_mode": 0.6119402985074627,
+            "avg_speechiness": 0.11665820895522387,
+            "avg_acousticness": 0.1962244776119403,
+            "avg_instrumentalness": 0.015053384029850755,
+            "avg_liveness": 0.18598507462686567,
+            "avg_valence": 0.4912985074626866,
+            "avg_tempo": 119.97179104477613,
+            "avg_duration": 188598.73134328358,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2021-01-02",
+        "stats": {
+            "avg_danceability": 0.6151686746987953,
+            "avg_energy": 0.5450240963855421,
+            "avg_loudness": -8.00414457831325,
+            "avg_mode": 0.6626506024096386,
+            "avg_speechiness": 0.09295180722891566,
+            "avg_acousticness": 0.3803189156626507,
+            "avg_instrumentalness": 0.005956965421686747,
+            "avg_liveness": 0.1693939759036145,
+            "avg_valence": 0.5768554216867467,
+            "avg_tempo": 124.69220481927711,
+            "avg_duration": 186522.8795180723,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2021-06-05",
+        "stats": {
+            "avg_danceability": 0.6429864864864867,
+            "avg_energy": 0.5913108108108109,
+            "avg_loudness": -6.977081081081082,
+            "avg_mode": 0.7162162162162162,
+            "avg_speechiness": 0.1118283783783784,
+            "avg_acousticness": 0.25706016216216226,
+            "avg_instrumentalness": 0.0009420863513513512,
+            "avg_liveness": 0.173777027027027,
+            "avg_valence": 0.4601175675675676,
+            "avg_tempo": 121.81178378378371,
+            "avg_duration": 192297.94594594595,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2022-01-08",
+        "stats": {
+            "avg_danceability": 0.6165662650602407,
+            "avg_energy": 0.5927108433734939,
+            "avg_loudness": -7.313915662650606,
+            "avg_mode": 0.8192771084337349,
+            "avg_speechiness": 0.07638674698795182,
+            "avg_acousticness": 0.2971984698795181,
+            "avg_instrumentalness": 0.012760156867469884,
+            "avg_liveness": 0.16572409638554228,
+            "avg_valence": 0.5594132530120481,
+            "avg_tempo": 122.02506024096388,
+            "avg_duration": 200036.22891566265,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2022-06-04",
+        "stats": {
+            "avg_danceability": 0.6877727272727272,
+            "avg_energy": 0.6414431818181819,
+            "avg_loudness": -6.294636363636365,
+            "avg_mode": 0.625,
+            "avg_speechiness": 0.11268750000000001,
+            "avg_acousticness": 0.2518984340909092,
+            "avg_instrumentalness": 0.004586767613636362,
+            "avg_liveness": 0.17382045454545456,
+            "avg_valence": 0.5058977272727271,
+            "avg_tempo": 123.59823863636365,
+            "avg_duration": 201637.4659090909,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2023-01-07",
+        "stats": {
+            "avg_danceability": 0.591453488372093,
+            "avg_energy": 0.5505,
+            "avg_loudness": -8.144825581395349,
+            "avg_mode": 0.8023255813953488,
+            "avg_speechiness": 0.06364767441860464,
+            "avg_acousticness": 0.3949215139534884,
+            "avg_instrumentalness": 0.025549253604651156,
+            "avg_liveness": 0.19694651162790697,
+            "avg_valence": 0.5292104651162792,
+            "avg_tempo": 124.94874418604644,
+            "avg_duration": 188652.61627906977,
+            "top_genres": []
+        }
+    },
+    {
+        "date": "2023-06-03",
+        "stats": {
+            "avg_danceability": 0.6611,
+            "avg_energy": 0.6509750000000002,
+            "avg_loudness": -6.323862499999999,
+            "avg_mode": 0.5875,
+            "avg_speechiness": 0.09649999999999999,
+            "avg_acousticness": 0.213616125,
+            "avg_instrumentalness": 0.010889286875000005,
+            "avg_liveness": 0.1583575,
+            "avg_valence": 0.48743125000000004,
+            "avg_tempo": 126.68602499999997,
+            "avg_duration": 183781.475,
+            "top_genres": []
+        }
+    }
+]
