@@ -1,0 +1,1419 @@
+[
+    {
+        "date": "1970-01-03",
+        "genres": {
+            "pop": 18,
+            "rock": 26,
+            "country": 4,
+            "r&b": 0,
+            "disco": 4,
+            "funk": 5,
+            "rap": 0,
+            "metal": 0
+        }
+    },
+    {
+        "date": "1970-06-06",
+        "genres": {
+            "pop": 15,
+            "rock": 26,
+            "country": 7,
+            "r&b": 0,
+            "disco": 6,
+            "funk": 7,
+            "rap": 0,
+            "metal": 0
+        }
+    },
+    {
+        "date": "1971-01-02",
+        "genres": {
+            "pop": 18,
+            "rock": 32,
+            "country": 14,
+            "r&b": 0,
+            "disco": 8,
+            "funk": 5,
+            "rap": 0,
+            "metal": 2
+        }
+    },
+    {
+        "date": "1971-06-05",
+        "genres": {
+            "pop": 13,
+            "rock": 29,
+            "country": 11,
+            "r&b": 0,
+            "disco": 12,
+            "funk": 10,
+            "rap": 0,
+            "metal": 0
+        }
+    },
+    {
+        "date": "1972-01-08",
+        "genres": {
+            "pop": 11,
+            "rock": 33,
+            "country": 9,
+            "r&b": 1,
+            "disco": 8,
+            "funk": 8,
+            "rap": 0,
+            "metal": 0
+        }
+    },
+    {
+        "date": "1972-06-03",
+        "genres": {
+            "pop": 11,
+            "rock": 33,
+            "country": 10,
+            "r&b": 2,
+            "disco": 5,
+            "funk": 9,
+            "rap": 0,
+            "metal": 0
+        }
+    },
+    {
+        "date": "1973-01-06",
+        "genres": {
+            "pop": 16,
+            "rock": 36,
+            "country": 13,
+            "r&b": 0,
+            "disco": 7,
+            "funk": 9,
+            "rap": 0,
+            "metal": 0
+        }
+    },
+    {
+        "date": "1973-06-02",
+        "genres": {
+            "pop": 13,
+            "rock": 35,
+            "country": 16,
+            "r&b": 1,
+            "disco": 12,
+            "funk": 16,
+            "rap": 0,
+            "metal": 1
+        }
+    },
+    {
+        "date": "1974-01-05",
+        "genres": {
+            "pop": 10,
+            "rock": 35,
+            "country": 20,
+            "r&b": 0,
+            "disco": 17,
+            "funk": 15,
+            "rap": 1,
+            "metal": 1
+        }
+    },
+    {
+        "date": "1974-06-08",
+        "genres": {
+            "pop": 14,
+            "rock": 35,
+            "country": 17,
+            "r&b": 0,
+            "disco": 18,
+            "funk": 19,
+            "rap": 0,
+            "metal": 0
+        }
+    },
+    {
+        "date": "1975-01-04",
+        "genres": {
+            "pop": 15,
+            "rock": 30,
+            "country": 10,
+            "r&b": 0,
+            "disco": 15,
+            "funk": 12,
+            "rap": 0,
+            "metal": 1
+        }
+    },
+    {
+        "date": "1975-06-07",
+        "genres": {
+            "pop": 15,
+            "rock": 31,
+            "country": 19,
+            "r&b": 1,
+            "disco": 19,
+            "funk": 14,
+            "rap": 0,
+            "metal": 0
+        }
+    },
+    {
+        "date": "1976-01-03",
+        "genres": {
+            "pop": 19,
+            "rock": 37,
+            "country": 10,
+            "r&b": 0,
+            "disco": 23,
+            "funk": 15,
+            "rap": 0,
+            "metal": 1
+        }
+    },
+    {
+        "date": "1976-06-05",
+        "genres": {
+            "pop": 13,
+            "rock": 40,
+            "country": 14,
+            "r&b": 0,
+            "disco": 16,
+            "funk": 6,
+            "rap": 0,
+            "metal": 1
+        }
+    },
+    {
+        "date": "1977-01-08",
+        "genres": {
+            "pop": 6,
+            "rock": 45,
+            "country": 9,
+            "r&b": 1,
+            "disco": 17,
+            "funk": 12,
+            "rap": 0,
+            "metal": 4
+        }
+    },
+    {
+        "date": "1977-06-04",
+        "genres": {
+            "pop": 13,
+            "rock": 39,
+            "country": 13,
+            "r&b": 0,
+            "disco": 14,
+            "funk": 8,
+            "rap": 0,
+            "metal": 4
+        }
+    },
+    {
+        "date": "1978-01-07",
+        "genres": {
+            "pop": 13,
+            "rock": 46,
+            "country": 10,
+            "r&b": 0,
+            "disco": 17,
+            "funk": 11,
+            "rap": 0,
+            "metal": 4
+        }
+    },
+    {
+        "date": "1978-06-03",
+        "genres": {
+            "pop": 11,
+            "rock": 50,
+            "country": 13,
+            "r&b": 0,
+            "disco": 19,
+            "funk": 6,
+            "rap": 0,
+            "metal": 2
+        }
+    },
+    {
+        "date": "1979-01-06",
+        "genres": {
+            "pop": 11,
+            "rock": 50,
+            "country": 8,
+            "r&b": 0,
+            "disco": 21,
+            "funk": 9,
+            "rap": 0,
+            "metal": 8
+        }
+    },
+    {
+        "date": "1979-06-02",
+        "genres": {
+            "pop": 19,
+            "rock": 43,
+            "country": 12,
+            "r&b": 0,
+            "disco": 27,
+            "funk": 11,
+            "rap": 0,
+            "metal": 1
+        }
+    },
+    {
+        "date": "1980-01-05",
+        "genres": {
+            "pop": 14,
+            "rock": 45,
+            "country": 11,
+            "r&b": 1,
+            "disco": 13,
+            "funk": 14,
+            "rap": 1,
+            "metal": 5
+        }
+    },
+    {
+        "date": "1980-06-07",
+        "genres": {
+            "pop": 12,
+            "rock": 53,
+            "country": 15,
+            "r&b": 2,
+            "disco": 9,
+            "funk": 6,
+            "rap": 0,
+            "metal": 3
+        }
+    },
+    {
+        "date": "1981-01-03",
+        "genres": {
+            "pop": 17,
+            "rock": 46,
+            "country": 16,
+            "r&b": 3,
+            "disco": 16,
+            "funk": 9,
+            "rap": 0,
+            "metal": 3
+        }
+    },
+    {
+        "date": "1981-06-06",
+        "genres": {
+            "pop": 17,
+            "rock": 46,
+            "country": 15,
+            "r&b": 0,
+            "disco": 11,
+            "funk": 9,
+            "rap": 0,
+            "metal": 5
+        }
+    },
+    {
+        "date": "1982-01-02",
+        "genres": {
+            "pop": 14,
+            "rock": 59,
+            "country": 14,
+            "r&b": 0,
+            "disco": 9,
+            "funk": 5,
+            "rap": 0,
+            "metal": 4
+        }
+    },
+    {
+        "date": "1982-06-05",
+        "genres": {
+            "pop": 18,
+            "rock": 49,
+            "country": 15,
+            "r&b": 3,
+            "disco": 14,
+            "funk": 12,
+            "rap": 0,
+            "metal": 7
+        }
+    },
+    {
+        "date": "1983-01-08",
+        "genres": {
+            "pop": 11,
+            "rock": 55,
+            "country": 12,
+            "r&b": 3,
+            "disco": 10,
+            "funk": 7,
+            "rap": 0,
+            "metal": 5
+        }
+    },
+    {
+        "date": "1983-06-04",
+        "genres": {
+            "pop": 23,
+            "rock": 51,
+            "country": 9,
+            "r&b": 5,
+            "disco": 5,
+            "funk": 8,
+            "rap": 0,
+            "metal": 4
+        }
+    },
+    {
+        "date": "1984-01-07",
+        "genres": {
+            "pop": 21,
+            "rock": 48,
+            "country": 9,
+            "r&b": 6,
+            "disco": 13,
+            "funk": 10,
+            "rap": 0,
+            "metal": 6
+        }
+    },
+    {
+        "date": "1984-06-02",
+        "genres": {
+            "pop": 26,
+            "rock": 41,
+            "country": 3,
+            "r&b": 2,
+            "disco": 9,
+            "funk": 7,
+            "rap": 0,
+            "metal": 4
+        }
+    },
+    {
+        "date": "1985-01-05",
+        "genres": {
+            "pop": 12,
+            "rock": 45,
+            "country": 3,
+            "r&b": 3,
+            "disco": 13,
+            "funk": 11,
+            "rap": 0,
+            "metal": 8
+        }
+    },
+    {
+        "date": "1985-06-08",
+        "genres": {
+            "pop": 25,
+            "rock": 47,
+            "country": 2,
+            "r&b": 8,
+            "disco": 8,
+            "funk": 7,
+            "rap": 0,
+            "metal": 9
+        }
+    },
+    {
+        "date": "1986-01-04",
+        "genres": {
+            "pop": 23,
+            "rock": 43,
+            "country": 4,
+            "r&b": 6,
+            "disco": 9,
+            "funk": 3,
+            "rap": 0,
+            "metal": 7
+        }
+    },
+    {
+        "date": "1986-06-07",
+        "genres": {
+            "pop": 28,
+            "rock": 49,
+            "country": 6,
+            "r&b": 7,
+            "disco": 5,
+            "funk": 6,
+            "rap": 0,
+            "metal": 4
+        }
+    },
+    {
+        "date": "1987-01-03",
+        "genres": {
+            "pop": 17,
+            "rock": 39,
+            "country": 4,
+            "r&b": 7,
+            "disco": 7,
+            "funk": 8,
+            "rap": 0,
+            "metal": 5
+        }
+    },
+    {
+        "date": "1987-06-06",
+        "genres": {
+            "pop": 15,
+            "rock": 44,
+            "country": 2,
+            "r&b": 7,
+            "disco": 4,
+            "funk": 11,
+            "rap": 0,
+            "metal": 8
+        }
+    },
+    {
+        "date": "1988-01-02",
+        "genres": {
+            "pop": 21,
+            "rock": 51,
+            "country": 1,
+            "r&b": 3,
+            "disco": 4,
+            "funk": 8,
+            "rap": 0,
+            "metal": 10
+        }
+    },
+    {
+        "date": "1988-06-04",
+        "genres": {
+            "pop": 27,
+            "rock": 38,
+            "country": 1,
+            "r&b": 8,
+            "disco": 5,
+            "funk": 4,
+            "rap": 0,
+            "metal": 7
+        }
+    },
+    {
+        "date": "1989-01-07",
+        "genres": {
+            "pop": 23,
+            "rock": 38,
+            "country": 1,
+            "r&b": 8,
+            "disco": 1,
+            "funk": 2,
+            "rap": 0,
+            "metal": 10
+        }
+    },
+    {
+        "date": "1989-06-03",
+        "genres": {
+            "pop": 29,
+            "rock": 33,
+            "country": 5,
+            "r&b": 8,
+            "disco": 3,
+            "funk": 1,
+            "rap": 0,
+            "metal": 9
+        }
+    },
+    {
+        "date": "1990-01-06",
+        "genres": {
+            "pop": 20,
+            "rock": 39,
+            "country": 2,
+            "r&b": 7,
+            "disco": 0,
+            "funk": 0,
+            "rap": 0,
+            "metal": 10
+        }
+    },
+    {
+        "date": "1990-06-02",
+        "genres": {
+            "pop": 19,
+            "rock": 27,
+            "country": 1,
+            "r&b": 10,
+            "disco": 0,
+            "funk": 0,
+            "rap": 3,
+            "metal": 8
+        }
+    },
+    {
+        "date": "1991-01-05",
+        "genres": {
+            "pop": 15,
+            "rock": 29,
+            "country": 1,
+            "r&b": 14,
+            "disco": 0,
+            "funk": 2,
+            "rap": 1,
+            "metal": 13
+        }
+    },
+    {
+        "date": "1991-06-08",
+        "genres": {
+            "pop": 16,
+            "rock": 29,
+            "country": 1,
+            "r&b": 10,
+            "disco": 0,
+            "funk": 2,
+            "rap": 0,
+            "metal": 10
+        }
+    },
+    {
+        "date": "1992-01-04",
+        "genres": {
+            "pop": 12,
+            "rock": 32,
+            "country": 2,
+            "r&b": 18,
+            "disco": 0,
+            "funk": 5,
+            "rap": 4,
+            "metal": 11
+        }
+    },
+    {
+        "date": "1992-06-06",
+        "genres": {
+            "pop": 15,
+            "rock": 29,
+            "country": 3,
+            "r&b": 17,
+            "disco": 1,
+            "funk": 4,
+            "rap": 4,
+            "metal": 6
+        }
+    },
+    {
+        "date": "1993-01-02",
+        "genres": {
+            "pop": 23,
+            "rock": 23,
+            "country": 3,
+            "r&b": 20,
+            "disco": 0,
+            "funk": 2,
+            "rap": 6,
+            "metal": 8
+        }
+    },
+    {
+        "date": "1993-06-05",
+        "genres": {
+            "pop": 17,
+            "rock": 18,
+            "country": 4,
+            "r&b": 19,
+            "disco": 0,
+            "funk": 7,
+            "rap": 6,
+            "metal": 4
+        }
+    },
+    {
+        "date": "1994-01-08",
+        "genres": {
+            "pop": 21,
+            "rock": 24,
+            "country": 6,
+            "r&b": 17,
+            "disco": 1,
+            "funk": 7,
+            "rap": 9,
+            "metal": 4
+        }
+    },
+    {
+        "date": "1994-06-04",
+        "genres": {
+            "pop": 20,
+            "rock": 21,
+            "country": 4,
+            "r&b": 14,
+            "disco": 0,
+            "funk": 6,
+            "rap": 8,
+            "metal": 1
+        }
+    },
+    {
+        "date": "1995-01-07",
+        "genres": {
+            "pop": 22,
+            "rock": 19,
+            "country": 5,
+            "r&b": 17,
+            "disco": 1,
+            "funk": 4,
+            "rap": 8,
+            "metal": 2
+        }
+    },
+    {
+        "date": "1995-06-03",
+        "genres": {
+            "pop": 25,
+            "rock": 14,
+            "country": 2,
+            "r&b": 23,
+            "disco": 0,
+            "funk": 1,
+            "rap": 4,
+            "metal": 2
+        }
+    },
+    {
+        "date": "1996-01-06",
+        "genres": {
+            "pop": 31,
+            "rock": 18,
+            "country": 2,
+            "r&b": 18,
+            "disco": 0,
+            "funk": 2,
+            "rap": 7,
+            "metal": 2
+        }
+    },
+    {
+        "date": "1996-06-08",
+        "genres": {
+            "pop": 23,
+            "rock": 16,
+            "country": 1,
+            "r&b": 12,
+            "disco": 0,
+            "funk": 1,
+            "rap": 5,
+            "metal": 4
+        }
+    },
+    {
+        "date": "1997-01-04",
+        "genres": {
+            "pop": 21,
+            "rock": 15,
+            "country": 5,
+            "r&b": 19,
+            "disco": 0,
+            "funk": 2,
+            "rap": 5,
+            "metal": 2
+        }
+    },
+    {
+        "date": "1997-06-07",
+        "genres": {
+            "pop": 21,
+            "rock": 16,
+            "country": 2,
+            "r&b": 15,
+            "disco": 1,
+            "funk": 4,
+            "rap": 7,
+            "metal": 0
+        }
+    },
+    {
+        "date": "1998-01-03",
+        "genres": {
+            "pop": 27,
+            "rock": 13,
+            "country": 9,
+            "r&b": 16,
+            "disco": 1,
+            "funk": 2,
+            "rap": 8,
+            "metal": 3
+        }
+    },
+    {
+        "date": "1998-06-06",
+        "genres": {
+            "pop": 25,
+            "rock": 9,
+            "country": 12,
+            "r&b": 14,
+            "disco": 0,
+            "funk": 0,
+            "rap": 4,
+            "metal": 4
+        }
+    },
+    {
+        "date": "1999-01-02",
+        "genres": {
+            "pop": 32,
+            "rock": 18,
+            "country": 23,
+            "r&b": 17,
+            "disco": 0,
+            "funk": 1,
+            "rap": 4,
+            "metal": 4
+        }
+    },
+    {
+        "date": "1999-06-05",
+        "genres": {
+            "pop": 39,
+            "rock": 13,
+            "country": 23,
+            "r&b": 18,
+            "disco": 0,
+            "funk": 2,
+            "rap": 2,
+            "metal": 7
+        }
+    },
+    {
+        "date": "2000-01-08",
+        "genres": {
+            "pop": 35,
+            "rock": 15,
+            "country": 15,
+            "r&b": 18,
+            "disco": 0,
+            "funk": 3,
+            "rap": 0,
+            "metal": 8
+        }
+    },
+    {
+        "date": "2000-06-03",
+        "genres": {
+            "pop": 31,
+            "rock": 11,
+            "country": 21,
+            "r&b": 19,
+            "disco": 0,
+            "funk": 2,
+            "rap": 8,
+            "metal": 9
+        }
+    },
+    {
+        "date": "2001-01-06",
+        "genres": {
+            "pop": 21,
+            "rock": 7,
+            "country": 20,
+            "r&b": 15,
+            "disco": 1,
+            "funk": 3,
+            "rap": 6,
+            "metal": 7
+        }
+    },
+    {
+        "date": "2001-06-02",
+        "genres": {
+            "pop": 29,
+            "rock": 15,
+            "country": 16,
+            "r&b": 13,
+            "disco": 0,
+            "funk": 5,
+            "rap": 3,
+            "metal": 6
+        }
+    },
+    {
+        "date": "2002-01-05",
+        "genres": {
+            "pop": 29,
+            "rock": 8,
+            "country": 13,
+            "r&b": 19,
+            "disco": 0,
+            "funk": 3,
+            "rap": 7,
+            "metal": 13
+        }
+    },
+    {
+        "date": "2002-06-08",
+        "genres": {
+            "pop": 27,
+            "rock": 9,
+            "country": 19,
+            "r&b": 19,
+            "disco": 0,
+            "funk": 3,
+            "rap": 9,
+            "metal": 12
+        }
+    },
+    {
+        "date": "2003-01-04",
+        "genres": {
+            "pop": 28,
+            "rock": 11,
+            "country": 13,
+            "r&b": 10,
+            "disco": 0,
+            "funk": 3,
+            "rap": 9,
+            "metal": 13
+        }
+    },
+    {
+        "date": "2003-06-07",
+        "genres": {
+            "pop": 28,
+            "rock": 8,
+            "country": 17,
+            "r&b": 10,
+            "disco": 0,
+            "funk": 1,
+            "rap": 7,
+            "metal": 11
+        }
+    },
+    {
+        "date": "2004-01-03",
+        "genres": {
+            "pop": 30,
+            "rock": 12,
+            "country": 20,
+            "r&b": 12,
+            "disco": 0,
+            "funk": 1,
+            "rap": 9,
+            "metal": 12
+        }
+    },
+    {
+        "date": "2004-06-05",
+        "genres": {
+            "pop": 25,
+            "rock": 15,
+            "country": 17,
+            "r&b": 8,
+            "disco": 0,
+            "funk": 2,
+            "rap": 11,
+            "metal": 12
+        }
+    },
+    {
+        "date": "2005-01-08",
+        "genres": {
+            "pop": 25,
+            "rock": 11,
+            "country": 18,
+            "r&b": 6,
+            "disco": 0,
+            "funk": 3,
+            "rap": 17,
+            "metal": 6
+        }
+    },
+    {
+        "date": "2005-06-04",
+        "genres": {
+            "pop": 40,
+            "rock": 14,
+            "country": 16,
+            "r&b": 11,
+            "disco": 0,
+            "funk": 0,
+            "rap": 14,
+            "metal": 6
+        }
+    },
+    {
+        "date": "2006-01-07",
+        "genres": {
+            "pop": 31,
+            "rock": 16,
+            "country": 18,
+            "r&b": 8,
+            "disco": 0,
+            "funk": 1,
+            "rap": 15,
+            "metal": 9
+        }
+    },
+    {
+        "date": "2006-06-03",
+        "genres": {
+            "pop": 31,
+            "rock": 16,
+            "country": 20,
+            "r&b": 7,
+            "disco": 0,
+            "funk": 2,
+            "rap": 11,
+            "metal": 7
+        }
+    },
+    {
+        "date": "2007-01-06",
+        "genres": {
+            "pop": 38,
+            "rock": 19,
+            "country": 14,
+            "r&b": 5,
+            "disco": 0,
+            "funk": 3,
+            "rap": 9,
+            "metal": 13
+        }
+    },
+    {
+        "date": "2007-06-02",
+        "genres": {
+            "pop": 34,
+            "rock": 13,
+            "country": 19,
+            "r&b": 9,
+            "disco": 0,
+            "funk": 0,
+            "rap": 9,
+            "metal": 11
+        }
+    },
+    {
+        "date": "2008-01-05",
+        "genres": {
+            "pop": 40,
+            "rock": 10,
+            "country": 15,
+            "r&b": 12,
+            "disco": 0,
+            "funk": 2,
+            "rap": 8,
+            "metal": 8
+        }
+    },
+    {
+        "date": "2008-06-07",
+        "genres": {
+            "pop": 37,
+            "rock": 6,
+            "country": 15,
+            "r&b": 10,
+            "disco": 0,
+            "funk": 0,
+            "rap": 6,
+            "metal": 4
+        }
+    },
+    {
+        "date": "2009-01-03",
+        "genres": {
+            "pop": 41,
+            "rock": 12,
+            "country": 19,
+            "r&b": 11,
+            "disco": 0,
+            "funk": 0,
+            "rap": 7,
+            "metal": 7
+        }
+    },
+    {
+        "date": "2009-06-06",
+        "genres": {
+            "pop": 37,
+            "rock": 10,
+            "country": 18,
+            "r&b": 3,
+            "disco": 0,
+            "funk": 0,
+            "rap": 8,
+            "metal": 7
+        }
+    },
+    {
+        "date": "2010-01-02",
+        "genres": {
+            "pop": 38,
+            "rock": 14,
+            "country": 18,
+            "r&b": 7,
+            "disco": 0,
+            "funk": 1,
+            "rap": 11,
+            "metal": 5
+        }
+    },
+    {
+        "date": "2010-06-05",
+        "genres": {
+            "pop": 33,
+            "rock": 4,
+            "country": 22,
+            "r&b": 5,
+            "disco": 0,
+            "funk": 0,
+            "rap": 8,
+            "metal": 2
+        }
+    },
+    {
+        "date": "2011-01-08",
+        "genres": {
+            "pop": 34,
+            "rock": 5,
+            "country": 21,
+            "r&b": 7,
+            "disco": 0,
+            "funk": 0,
+            "rap": 8,
+            "metal": 2
+        }
+    },
+    {
+        "date": "2011-06-04",
+        "genres": {
+            "pop": 37,
+            "rock": 8,
+            "country": 22,
+            "r&b": 6,
+            "disco": 1,
+            "funk": 0,
+            "rap": 6,
+            "metal": 2
+        }
+    },
+    {
+        "date": "2012-01-07",
+        "genres": {
+            "pop": 38,
+            "rock": 9,
+            "country": 17,
+            "r&b": 2,
+            "disco": 0,
+            "funk": 1,
+            "rap": 10,
+            "metal": 1
+        }
+    },
+    {
+        "date": "2012-06-02",
+        "genres": {
+            "pop": 33,
+            "rock": 4,
+            "country": 26,
+            "r&b": 4,
+            "disco": 0,
+            "funk": 1,
+            "rap": 9,
+            "metal": 1
+        }
+    },
+    {
+        "date": "2013-01-05",
+        "genres": {
+            "pop": 36,
+            "rock": 15,
+            "country": 23,
+            "r&b": 3,
+            "disco": 0,
+            "funk": 0,
+            "rap": 11,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2013-06-08",
+        "genres": {
+            "pop": 31,
+            "rock": 8,
+            "country": 22,
+            "r&b": 4,
+            "disco": 0,
+            "funk": 0,
+            "rap": 8,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2014-01-04",
+        "genres": {
+            "pop": 41,
+            "rock": 17,
+            "country": 20,
+            "r&b": 1,
+            "disco": 0,
+            "funk": 0,
+            "rap": 6,
+            "metal": 1
+        }
+    },
+    {
+        "date": "2014-06-07",
+        "genres": {
+            "pop": 43,
+            "rock": 10,
+            "country": 21,
+            "r&b": 7,
+            "disco": 0,
+            "funk": 0,
+            "rap": 4,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2015-01-03",
+        "genres": {
+            "pop": 44,
+            "rock": 9,
+            "country": 18,
+            "r&b": 4,
+            "disco": 0,
+            "funk": 0,
+            "rap": 5,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2015-06-06",
+        "genres": {
+            "pop": 44,
+            "rock": 9,
+            "country": 18,
+            "r&b": 3,
+            "disco": 0,
+            "funk": 0,
+            "rap": 8,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2016-01-02",
+        "genres": {
+            "pop": 45,
+            "rock": 3,
+            "country": 16,
+            "r&b": 7,
+            "disco": 0,
+            "funk": 0,
+            "rap": 16,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2016-06-04",
+        "genres": {
+            "pop": 45,
+            "rock": 4,
+            "country": 17,
+            "r&b": 7,
+            "disco": 0,
+            "funk": 0,
+            "rap": 10,
+            "metal": 1
+        }
+    },
+    {
+        "date": "2017-01-07",
+        "genres": {
+            "pop": 34,
+            "rock": 3,
+            "country": 10,
+            "r&b": 7,
+            "disco": 0,
+            "funk": 0,
+            "rap": 14,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2017-06-03",
+        "genres": {
+            "pop": 33,
+            "rock": 3,
+            "country": 17,
+            "r&b": 4,
+            "disco": 0,
+            "funk": 0,
+            "rap": 18,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2018-01-03",
+        "genres": {
+            "pop": 32,
+            "rock": 5,
+            "country": 14,
+            "r&b": 3,
+            "disco": 0,
+            "funk": 0,
+            "rap": 20,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2018-06-02",
+        "genres": {
+            "pop": 36,
+            "rock": 2,
+            "country": 13,
+            "r&b": 4,
+            "disco": 0,
+            "funk": 0,
+            "rap": 28,
+            "metal": 1
+        }
+    },
+    {
+        "date": "2019-01-05",
+        "genres": {
+            "pop": 31,
+            "rock": 7,
+            "country": 12,
+            "r&b": 4,
+            "disco": 0,
+            "funk": 0,
+            "rap": 29,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2019-06-08",
+        "genres": {
+            "pop": 35,
+            "rock": 0,
+            "country": 20,
+            "r&b": 4,
+            "disco": 0,
+            "funk": 0,
+            "rap": 24,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2020-01-04",
+        "genres": {
+            "pop": 33,
+            "rock": 2,
+            "country": 12,
+            "r&b": 4,
+            "disco": 0,
+            "funk": 0,
+            "rap": 20,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2020-01-04",
+        "genres": {
+            "pop": 33,
+            "rock": 2,
+            "country": 12,
+            "r&b": 4,
+            "disco": 0,
+            "funk": 0,
+            "rap": 20,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2020-06-06",
+        "genres": {
+            "pop": 25,
+            "rock": 1,
+            "country": 14,
+            "r&b": 5,
+            "disco": 0,
+            "funk": 0,
+            "rap": 32,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2021-01-02",
+        "genres": {
+            "pop": 33,
+            "rock": 5,
+            "country": 15,
+            "r&b": 2,
+            "disco": 0,
+            "funk": 1,
+            "rap": 18,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2021-06-05",
+        "genres": {
+            "pop": 36,
+            "rock": 3,
+            "country": 18,
+            "r&b": 4,
+            "disco": 0,
+            "funk": 0,
+            "rap": 19,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2022-01-08",
+        "genres": {
+            "pop": 30,
+            "rock": 4,
+            "country": 16,
+            "r&b": 7,
+            "disco": 0,
+            "funk": 0,
+            "rap": 13,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2022-06-04",
+        "genres": {
+            "pop": 30,
+            "rock": 3,
+            "country": 17,
+            "r&b": 3,
+            "disco": 0,
+            "funk": 0,
+            "rap": 40,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2023-01-07",
+        "genres": {
+            "pop": 43,
+            "rock": 7,
+            "country": 13,
+            "r&b": 15,
+            "disco": 0,
+            "funk": 1,
+            "rap": 18,
+            "metal": 0
+        }
+    },
+    {
+        "date": "2023-06-03",
+        "genres": {
+            "pop": 33,
+            "rock": 0,
+            "country": 24,
+            "r&b": 7,
+            "disco": 0,
+            "funk": 0,
+            "rap": 22,
+            "metal": 0
+        }
+    }
+]
