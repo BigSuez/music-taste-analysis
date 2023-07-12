@@ -23,7 +23,6 @@
   - Data Extraction/Cleaning
   - Flask Setup
   - SQL Setup
-  - Features 
 - John
   - HTML
   - CSS
