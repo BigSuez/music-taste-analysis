@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Spotify Interactive Timeline</title>
+    <link rel="stylesheet" href="spotify_style.css" />
+</head>
+<body>
+    <h1>Interactive Spotify Timeline</h1>
+    <div class="wrapper">
+        <div class="timeline-area">
+            <div class="line-area">
+                <div class="single-item active">
+                    <span>1970s</span>
+                    <div class="image-area">
+                        <a href="#">
+                            <img src="img/elton_john.jpeg" alt="">
+                            <span>EltonJohn</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="single-item">
+                    <span>1980s</span>
+                    <div class="image-area">
+                        <a href="#">
+                            <img src="img/michael_jackson.jpeg" alt="">
+                            <span>MichaelJackson</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="single-item">
+                    <span>1990s</span>
+                    <div class="image-area">
+                        <a href="#">
+                            <img src="img/kurt_cobain.jpeg" alt="">
+                            <span>KurtCobain</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="single-item">
+                    <span>2000s</span>
+                    <div class="image-area">
+                        <a href="#">
+                            <img src="img/soulja_boy.jpeg" alt="">
+                            <span>SouljaBoy</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="single-item">
+                    <span>2010s</span>
+                    <div class="image-area">
+                        <a href="#">
+                            <img src="img/drake_and_taylor.jpeg" alt="">
+                            <span>DrakeAndTaylor</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="single-item">
+                    <span>2020s</span>
+                    <div class="image-area">
+                        <a href="#">
+                            <img src="img/billie_eilish.jpeg" alt="">
+                            <span>BillieEilish</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></scriptsrc></script>
+    <script>
+
+        $(".wrapper .single-item > span").on("mouseenter mouseleave", function(e){
+            $(".wrapper .single-item.active").removeClass("active");
+             $(this).parent().addClass("active");
+        });
+
+
+    </script>
+
+
+</body>
+</html>
+
+
+
