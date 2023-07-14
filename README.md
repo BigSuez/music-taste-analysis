@@ -12,8 +12,9 @@
   - Jupyter Notebook
   - Flask
 - Javascript
-  - D3
-  - Plotly
+  - D3.js
+  - Plotly.js
+  - Chart.js
 - SQL
   - PostgreSQL
   - QuickDBD
@@ -23,6 +24,7 @@
   - Data Extraction/Cleaning
   - Flask Setup
   - SQL Setup
+  - Features by Decade
 - John
   - HTML
   - CSS
@@ -31,6 +33,6 @@
 - Ahmed
   - Genre Stats by Decade
 - Sristy
-  - Feature Averages by Decade
+  - Feature Averages
 
 [Presentation Link](https://docs.google.com/presentation/d/1xY-iR0ooTk64Mv6JmbcwRTGsxggpJEvsBUO5LiAE3bY/edit?usp=sharing)
