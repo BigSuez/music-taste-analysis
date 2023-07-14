@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Spotify Interactive Timeline</title>
-    <link rel="stylesheet" href="static/spotify_style.css">
+    <link rel="stylesheet" href="../static/spotify_style.css">
 </head>
 
 <body>
@@ -18,7 +18,7 @@
                     <span>Top 5 songs by Time Period</span>
                     <div class="image-area">
                         <a href="#">
-                            <img src="static/images/Screenshot 2023-07-13 212227.png" alt="">
+                            <!-- <img src="static/images/Screenshot 2023-07-13 212227.png" alt=""> -->
                             <span>TimePeriod</span>
                         </a>
                     </div>
@@ -27,7 +27,7 @@
                     <span>Genre Stats by Decade</span>
                     <div class="image-area">
                         <a href="#">
-                            <img src="static/images/Screenshot 2023-07-13 205511.png" alt="">
+                            <!-- <img src="static/images/Screenshot 2023-07-13 205511.png" alt=""> -->
                             <span>Genre Stats</span>
                         </a>
                     </div>
@@ -36,20 +36,22 @@
                     <span>Feature Averages by Decade</span>
                     <div class="image-area">
                         <a href="#">
-                            <img src="static/images/" alt="">
+                            <!-- <img src="static/images/" alt=""> -->
                             <span>FeatureAverages</span>
                         </a>
                     </div>
                 </div>
                 <div class="single-item">
                     <span>Decade Averages</span>
-                    <div id='radar' class="image-area">
+                    <div class="image-area">
                         <a href="#">
-                            <img src="static/images/radar_img.png" alt="">
+                            <!-- <img src="static/images/radar_img.png" alt=""> -->
                             <span>Decade Averages</span>
                         </a>
                     </div>
                 </div>
+                <canvas id="chart" class="chart" width="400" height="400">
+                </canvas>
             </div>
         </div>
     </div>
@@ -59,16 +61,8 @@
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
-    <script type="text/javascript">
-        document.getElementById("radar").onclick = function () {
-            location.href = "HTML_Files/radar.html";
-        };
-    </script>
-
-    <!-- <script src="static/scripts/top_5.js"></script>
-    <script src="static/scripts/genre_stats.js"></script>
-    <script src="static/scripts/features.js"></script> -->
-    <script src="static/scripts/radar_chart.js"></script>
+    
+    <script src="../static/scripts/radar_chart.js"></script>
 
     <script>
 

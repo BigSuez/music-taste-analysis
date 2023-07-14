@@ -1,7 +1,9 @@
-const ctx = document.getElementById('myChart');
+console.log("test");
+const ctx = document.getElementById('chart');
 const url = 'https://raw.githubusercontent.com/BigSuez/project-3/main/Extraction/Outputs/period_stats.json'
 
 d3.json(url).then(function(data){
+  console.log("test");
     var seventies = getStats(data.slice(0, 20));
     var eighties = getStats(data.slice(20, 40));
     var nineties = getStats(data.slice(40, 60));
