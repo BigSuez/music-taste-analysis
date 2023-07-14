@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Spotify Interactive Timeline</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <link rel="stylesheet" href="spotify_style.css" />
+</head>
+<body>
+    <h1>Interactive Spotify Timeline</h1>
+    <div class="wrapper">
+        <div class="timeline-area">
+            <div class="line-area">
+                <div class="single-item">
+                    <span>Top 5 songs by Time Period</span>
+                    <div class="image-area">
+                        <a href="#">
+                            <img src="https://pyxis.nymag.com/v1/imgs/efa/b57/dffc09d024306803296f11047e7eb63f13-17-spotify-logo.rsquare.w190.jpg" alt="">
+                            <span>TimePeriod</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="single-item">
+                    <span>Genre Stats by Decade</span>
+                    <div class="image-area">
+                        <a href="#">
+                            <img src="" alt="">
+                            <span>Genre Stats</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="single-item">
+                    <span>Feature Averages by Decade</span>
+                    <div class="image-area">
+                        <a href="#">
+                            <img src="" alt="">
+                            <span>FeatureAverages</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="single-item">
+                    <span>Decade Averages</span>
+                    <div class="image-area">
+                        <a href="#">
+                            <img src="" alt="">
+                            <span>Decade Averages</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+
+
+$(".wrapper .single-item > span").on("mouseenter mouseleave", function(e){
+    $(".wrapper .single-item.active").removeClass("active");
+     $(this).parent().addClass("active");
+});
+
+
+
+
+
+
+
+</html>
+
+
+
