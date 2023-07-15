@@ -49,7 +49,7 @@ d3.json(url).then(function(data) {
     }
   }
 
-  Plotly.newPlot("bar", barData, barLayout);
+  Plotly.newPlot("chart2", barData, barLayout);
 });
 
 
@@ -151,6 +151,6 @@ function makeChart(x, dance, valence, energy, speech, acoustic, instrument, live
     }
 
 
-    Plotly.newPlot('line', data, layout);
+    Plotly.newPlot('chart', data, layout);
     
 }

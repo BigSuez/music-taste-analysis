@@ -63,6 +63,7 @@
 
          // Function to update the chart based on the selected year
          function updateChart(selectedYear) {
+            console.log('charting')
              var filteredData = data.filter(obj => {
                  var year = Number(obj.date.substring(0, 4));
                  return year <= selectedYear;

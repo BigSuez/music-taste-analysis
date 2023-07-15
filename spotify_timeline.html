@@ -16,7 +16,7 @@
             <div class="line-area">
                 <div class="single-item">
                     <span>Top 5 songs by Time Period</span>
-                    <div class="image-area">
+                    <div id="top5" class="image-area">
                         <a href="#">
                             <img src="static/images/Screenshot 2023-07-13 212227.png" alt="">
                             <span>TimePeriod</span>
@@ -25,7 +25,7 @@
                 </div>
                 <div class="single-item">
                     <span>Genre Stats by Decade</span>
-                    <div class="image-area">
+                    <div id='genres' class="image-area">
                         <a href="#">
                             <img src="static/images/Screenshot 2023-07-13 205511.png" alt="">
                             <span>Genre Stats</span>
@@ -34,7 +34,7 @@
                 </div>
                 <div class="single-item">
                     <span>Feature Averages by Decade</span>
-                    <div class="image-area">
+                    <div id='features' class="image-area">
                         <a href="#">
                             <img src="static/images/" alt="">
                             <span>FeatureAverages</span>
@@ -63,12 +63,21 @@
         document.getElementById("radar").onclick = function () {
             location.href = "HTML_Files/radar.html";
         };
+        document.getElementById("features").onclick = function () {
+            location.href = "HTML_Files/features.html";
+        };
+        document.getElementById("genres").onclick = function () {
+            location.href = "HTML_Files/genres.html";
+        };
+        document.getElementById("top5").onclick = function () {
+            location.href = "HTML_Files/top5.html";
+        };
     </script>
 
     <!-- <script src="static/scripts/top_5.js"></script>
     <script src="static/scripts/genre_stats.js"></script>
-    <script src="static/scripts/features.js"></script> -->
-    <script src="static/scripts/radar_chart.js"></script>
+    <script src="static/scripts/features.js"></script>
+    <script src="static/scripts/radar_chart.js"></script> -->
 
     <script>
 
