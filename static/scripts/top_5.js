@@ -25,7 +25,7 @@ d3.json(url).then(function(data) {
     speechiness: "green",
     acousticness: "red",
     liveness: "purple",
-    valence: "brown"
+    valence: "pink"
   };
 
   // Function to update the chart based on the selected date
@@ -127,7 +127,7 @@ d3.json(url).then(function(data) {
       } else if (name === "liveness") {
         textColor = "purple";
       } else if (name === "valence") {
-        textColor = "maroon";
+        textColor = "pink";
       }
 
       legendHtml += `<div class="legend-item"><span class="legend-marker" style="background-color:${color};"></span><span class="legend-label" style="color:${textColor};">${name}</span></div>`;
