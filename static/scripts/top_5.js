@@ -18,8 +18,15 @@ d3.json(url).then(function(data) {
       return d;
     });
 
-  // Define the color scale for different features
-  var colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+  // Define a custom color mapping for specific features
+  var colorMap = {
+    danceability: "blue",
+    energy: "orange",
+    speechiness: "green",
+    acousticness: "red",
+    liveness: "purple",
+    valence: "brown"
+  };
 
   // Function to update the chart based on the selected date
   function updateChart(selectedDate) {
@@ -54,7 +61,7 @@ d3.json(url).then(function(data) {
             mode: "markers",
             marker: {
               size: 10,
-              color: colorScale(index)
+              color: colorMap[feature] || colorScale(index)
             },
             text: feature + ": " + value,
             type: "scatter",
@@ -71,7 +78,7 @@ d3.json(url).then(function(data) {
       var legendItem = {
         name: feature,
         marker: {
-          color: colorScale(index),
+          color: colorMap[feature] || colorScale(index),
           symbol: "circle"
         }
       };
@@ -106,14 +113,26 @@ d3.json(url).then(function(data) {
     legendItems.forEach(function(item) {
       var color = item.marker.color;
       var name = item.name;
-      
+
       // Check for specific features and update the text color accordingly
-      if (name === "danceability" || name === "energy" || name === "speechiness" || name === "acousticness" || name === "liveness" || name === "valence") {
-        legendHtml += `<div class="legend-item"><span class="legend-marker" style="background-color:${color}"></span><span class="legend-label" style="color:${color}">${name}</span></div>`;
-      } else {
-        legendHtml += `<div class="legend-item"><span class="legend-marker" style="background-color:${color}"></span><span class="legend-label">${name}</span></div>`;
+      var textColor;
+      if (name === "danceability") {
+        textColor = "blue";
+      } else if (name === "energy") {
+        textColor = "orange";
+      } else if (name === "speechiness") {
+        textColor = "green";
+      } else if (name === "acousticness") {
+        textColor = "red";
+      } else if (name === "liveness") {
+        textColor = "purple";
+      } else if (name === "valence") {
+        textColor = "maroon";
       }
+
+      legendHtml += `<div class="legend-item"><span class="legend-marker" style="background-color:${color};"></span><span class="legend-label" style="color:${textColor};">${name}</span></div>`;
     });
+
     var legendContainer = document.getElementById("legend");
     legendContainer.innerHTML = legendHtml;
   }
