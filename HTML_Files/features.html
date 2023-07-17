@@ -15,8 +15,8 @@
         <div class="timeline-area">
             <div class="line-area">
                 <div class="single-item">
-                    <span>Top 5 songs by Time Period</span>
-                    <div id="top5" class="image-area">
+                    <span id="top5">Top 5 songs by Time Period</span>
+                    <div class="image-area">
                         <a href="#">
                             <!-- <img src="static/images/Screenshot 2023-07-13 212227.png" alt=""> -->
                             <span>TimePeriod</span>
@@ -24,8 +24,8 @@
                     </div>
                 </div>
                 <div class="single-item">
-                    <span>Genre Stats by Decade</span>
-                    <div id="genres" class="image-area">
+                    <span id="genres">Genre Stats by Decade</span>
+                    <div class="image-area">
                         <a href="#">
                             <!-- <img src="static/images/Screenshot 2023-07-13 205511.png" alt=""> -->
                             <span>Genre Stats</span>
@@ -33,8 +33,8 @@
                     </div>
                 </div>
                 <div class="single-item">
-                    <span>Feature Averages by Decade</span>
-                    <div id="features" class="image-area">
+                    <span id="features">Feature Averages by Decade</span>
+                    <div class="image-area">
                         <a href="#">
                             <!-- <img src="static/images/" alt=""> -->
                             <span>FeatureAverages</span>
@@ -42,8 +42,8 @@
                     </div>
                 </div>
                 <div class="single-item">
-                    <span>Decade Averages</span>
-                    <div id="radar" class="image-area">
+                    <span id="radar">Decade Averages</span>
+                    <div class="image-area">
                         <a href="#">
                             <!-- <img src="static/images/radar_img.png" alt=""> -->
                             <span>Decade Averages</span>
@@ -99,14 +99,7 @@
 
     
 
-    <script>
 
-        $(".wrapper .single-item > span").on("mouseenter mouseleave", function(e) {
-            $(".wrapper .single-item.active").removeClass("active");
-            $(this).parent().addClass("active");
-        });
-
-    </script>
 </body>
 
 </html>

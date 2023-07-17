@@ -120,3 +120,7 @@ body{
     display: block;
 }
 
+#radchart{
+    display: inline-block;
+    margin-top: 70px;
+}
