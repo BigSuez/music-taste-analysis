@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Spotify Interactive Timeline</title>
+    <title>Spotify Interactive Dashboard</title>
     <link rel="stylesheet" href="../static/spotify_style.css">
 </head>
 
 <body>
-    <h1>Interactive Spotify Timeline</h1>
+    <h1>Interactive Spotify Dashboard</h1>
     <div class="wrapper">
         <div class="timeline-area">
             <div class="line-area">
@@ -50,10 +50,8 @@
                         </a>
                     </div>
                 </div>
-                
-                
             </div>
-            <div id="chart" class="chart" width="400" height="400">
+            <div id="chart" class="chart" width="400" height="400" >
             </div>
             <div id="year-slider-container">
                 <label id="year-slider-label" for="year-slider">Select Years:</label>
@@ -61,6 +59,21 @@
             </div>
         </div>
     </div>
+
+    <style>
+        #chart {
+            width: 1000px;
+            height: 400px;
+            position: absolute;
+            top: 175px;
+            left: 200px;
+        }
+        #year-slider-container {
+            position: absolute;
+            top: 150px;
+            left: 200px;
+        }
+    </style>
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://d3js.org/d3.v7.min.js" charset="utf-8"></script>
