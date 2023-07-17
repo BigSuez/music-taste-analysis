@@ -29,7 +29,7 @@ body{
     height: 5px;
     background: #262626;
     position: absolute;
-    top: 49%;
+    top: 20%;
     left: 15%;
 }
 
@@ -53,7 +53,7 @@ body{
     font-weight: bold;
     position: absolute;
     top: 50%;
-    margin-top: -8px;
+    margin-top: -16px;
     width: 100%;
     cursor: pointer;
 }
@@ -98,7 +98,7 @@ body{
     position: absolute;
     width: 250%;
     margin-left: -72%;
-    bottom: -40px;
+    bottom: 50px;
     left: 0;
     font-size: 20px;
     text-transform: uppercase;
@@ -119,3 +119,10 @@ body{
 .single-item.active .image-area{
     display: block;
 }
+
+.user-select-none.svg-container{
+    bottom: -490px;
+}
+
+
+
