@@ -1,6 +1,10 @@
-const ctx = document.getElementById('chart');
+//Git JSON URL for Testing
 const url = 'https://raw.githubusercontent.com/BigSuez/project-3/main/Extraction/Outputs/period_stats.json'
 
+//Flask URL for Prod
+//const url = 'http://127.0.0.1:5000/periods';
+
+const ctx = document.getElementById('chart');
 d3.json(url).then(function(data){
     var seventies = getStats(data.slice(0, 20));
     var eighties = getStats(data.slice(20, 40));

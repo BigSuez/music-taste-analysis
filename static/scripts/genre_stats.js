@@ -1,5 +1,9 @@
- // Make an AJAX request to fetch the JSON file
- var url = "https://raw.githubusercontent.com/BigSuez/project-3/main/Extraction/Outputs/genre_stats.json";
+// Git JSON URL for Testing
+const url = "https://raw.githubusercontent.com/BigSuez/project-3/main/Extraction/Outputs/genre_stats.json";
+
+ // Flask URL for Prod
+//const url = 'http://127.0.0.1:5000/genres';
+
  fetch(url)
      .then(response => response.json())
      .then(data => {

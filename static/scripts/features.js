@@ -1,4 +1,8 @@
+// Git JSON URL for Testing
 const url = "https://raw.githubusercontent.com/BigSuez/project-3/main/Extraction/Outputs/period_stats.json";
+
+//Flask URL for Prod
+//const url = 'http://127.0.0.1:5000/periods'
 
 d3.json(url).then(function(data) {
   console.log(data);
